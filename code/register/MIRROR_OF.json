@@ -1,0 +1,10 @@
+{
+ "mirror": "s5_register.py",
+ "source": "s5.py (shipped unchanged in this folder)",
+ "source_sha256": "9b7b890c132aae6e63460c6a148d2798f87fe878d49b9fe1eec43f818941530a",
+ "source_sha256_matches_certified_manifests": true,
+ "mirrored": ["ALL_PERMS", "PERM_TO_IDX", "IDENTITY", "compose", "MUL (as nested lists instead of a torch tensor)", "prefix_products (as prefix_states, transition indices 0..119 instead of class ids 1..120)"],
+ "added": ["prefix_states_scan (doubling scan)", "final_state"],
+ "not_mirrored": ["prefix_products_torch", "embeddings and token format helpers", "make_dataset"],
+ "check": "test_s5_register.py loads s5.py with a torch stand-in and asserts the table and prefix states are identical"
+}

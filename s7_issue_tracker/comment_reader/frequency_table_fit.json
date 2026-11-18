@@ -1,0 +1,1284 @@
+{
+  "keywords": [
+    "fixed",
+    "fix",
+    "committed",
+    "commit",
+    "merged",
+    "merge",
+    "applied",
+    "resolved",
+    "done",
+    "pushed",
+    "closing",
+    "closed",
+    "duplicate",
+    "won't fix",
+    "wont fix",
+    "invalid",
+    "not a bug",
+    "reopen"
+  ],
+  "training_projects": [
+    "APEXCORE",
+    "BAHIR",
+    "CLK",
+    "COCOON",
+    "CTAKES",
+    "DIGESTER",
+    "DIRECTMEMORY",
+    "DIRSERVER",
+    "EAGLE",
+    "ESME",
+    "FILEUPLOAD",
+    "FINERACT",
+    "HDFS",
+    "JOHNZON",
+    "JSPWIKI",
+    "KAFKA",
+    "LANG",
+    "LUCENENET",
+    "MAHOUT",
+    "MANTTASKS",
+    "MDEP",
+    "MJAVADOC",
+    "MPIR",
+    "MRM",
+    "MTOMCAT",
+    "NIFI",
+    "NUTCH",
+    "ONAMI",
+    "PIVOT",
+    "QPIDJMS",
+    "RNG",
+    "SANDESHA2",
+    "STORM",
+    "STREAMS",
+    "TEXT",
+    "TWILL",
+    "VCL",
+    "VFS",
+    "WHIRR",
+    "YUNIKORN"
+  ],
+  "training_pairs": 129016,
+  "prior_k": [
+    {
+      "key": [
+        "resolution",
+        "Cannot Reproduce",
+        "closing"
+      ],
+      "value": "none",
+      "counts": {
+        "none": 1
+      }
+    },
+    {
+      "key": [
+        "resolution",
+        "Cannot Reproduce",
+        "fix"
+      ],
+      "value": "Won't Fix",
+      "counts": {
+        "Won't Fix": 1
+      }
+    },
+    {
+      "key": [
+        "resolution",
+        "Fixed",
+        "applied"
+      ],
+      "value": "Fixed",
+      "counts": {
+        "Fixed": 1
+      }
+    },
+    {
+      "key": [
+        "resolution",
+        "Fixed",
+        "fix"
+      ],
+      "value": "Fixed",
+      "counts": {
+        "Fixed": 1,
+        "Won't Fix": 1,
+        "none": 1
+      }
+    },
+    {
+      "key": [
+        "resolution",
+        "Fixed",
+        "fixed"
+      ],
+      "value": "Fixed",
+      "counts": {
+        "Fixed": 1,
+        "none": 1
+      }
+    },
+    {
+      "key": [
+        "resolution",
+        "Fixed",
+        "reopen"
+      ],
+      "value": "none",
+      "counts": {
+        "none": 2
+      }
+    },
+    {
+      "key": [
+        "resolution",
+        "Unresolved",
+        "applied"
+      ],
+      "value": "Fixed",
+      "counts": {
+        "Fixed": 1
+      }
+    },
+    {
+      "key": [
+        "resolution",
+        "Unresolved",
+        "closing"
+      ],
+      "value": "Fixed",
+      "counts": {
+        "Fixed": 1
+      }
+    },
+    {
+      "key": [
+        "resolution",
+        "Unresolved",
+        "committed"
+      ],
+      "value": "Fixed",
+      "counts": {
+        "Fixed": 3
+      }
+    },
+    {
+      "key": [
+        "resolution",
+        "Unresolved",
+        "fix"
+      ],
+      "value": "Fixed",
+      "counts": {
+        "Fixed": 1
+      }
+    },
+    {
+      "key": [
+        "resolution",
+        "Unresolved",
+        "fixed"
+      ],
+      "value": "Fixed",
+      "counts": {
+        "Fixed": 4
+      }
+    },
+    {
+      "key": [
+        "resolution",
+        "Unresolved",
+        "reopen"
+      ],
+      "value": "none",
+      "counts": {
+        "none": 1
+      }
+    },
+    {
+      "key": [
+        "resolution",
+        "Unresolved",
+        "resolved"
+      ],
+      "value": "Fixed",
+      "counts": {
+        "Fixed": 1
+      }
+    },
+    {
+      "key": [
+        "resolution",
+        "none",
+        "applied"
+      ],
+      "value": "Fixed",
+      "counts": {
+        "Duplicate": 6,
+        "Fixed": 1210,
+        "Implemented": 5,
+        "Incomplete": 1,
+        "Invalid": 3,
+        "Not A Problem": 6,
+        "Not a Problem": 1,
+        "Won't Fix": 5,
+        "none": 49
+      }
+    },
+    {
+      "key": [
+        "resolution",
+        "none",
+        "closed"
+      ],
+      "value": "Fixed",
+      "counts": {
+        "Auto Closed": 113,
+        "Cannot Reproduce": 17,
+        "Done": 5,
+        "Duplicate": 38,
+        "Fixed": 217,
+        "Implemented": 4,
+        "Invalid": 35,
+        "Later": 2,
+        "Not A Bug": 9,
+        "Not A Problem": 28,
+        "Not a Problem": 1,
+        "Resolved": 1,
+        "Unresolved": 1,
+        "Won't Do": 6,
+        "Won't Fix": 86,
+        "none": 70
+      }
+    },
+    {
+      "key": [
+        "resolution",
+        "none",
+        "closing"
+      ],
+      "value": "Fixed",
+      "counts": {
+        "Abandoned": 14,
+        "Auto Closed": 228,
+        "Cannot Reproduce": 149,
+        "Done": 7,
+        "Duplicate": 291,
+        "Feedback Received": 3,
+        "Fixed": 484,
+        "Implemented": 7,
+        "Incomplete": 48,
+        "Information Provided": 13,
+        "Invalid": 143,
+        "Later": 12,
+        "Not A Bug": 45,
+        "Not A Problem": 136,
+        "Not a Problem": 27,
+        "Pending Closed": 2,
+        "Resolved": 11,
+        "Unresolved": 10,
+        "Won't Do": 18,
+        "Won't Fix": 348,
+        "Workaround": 4,
+        "none": 47
+      }
+    },
+    {
+      "key": [
+        "resolution",
+        "none",
+        "commit"
+      ],
+      "value": "Fixed",
+      "counts": {
+        "Abandoned": 1,
+        "Auto Closed": 1,
+        "Cannot Reproduce": 4,
+        "Done": 9,
+        "Duplicate": 17,
+        "Fixed": 2616,
+        "Implemented": 47,
+        "Information Provided": 1,
+        "Invalid": 7,
+        "Later": 1,
+        "Not A Bug": 1,
+        "Not A Problem": 12,
+        "Not a Problem": 2,
+        "Pending Closed": 1,
+        "Resolved": 2,
+        "Won't Do": 2,
+        "Won't Fix": 26,
+        "Works for Me": 1,
+        "none": 139
+      }
+    },
+    {
+      "key": [
+        "resolution",
+        "none",
+        "committed"
+      ],
+      "value": "Fixed",
+      "counts": {
+        "Cannot Reproduce": 7,
+        "Delivered": 1,
+        "Done": 5,
+        "Duplicate": 23,
+        "Fixed": 11179,
+        "Implemented": 12,
+        "Incomplete": 2,
+        "Information Provided": 1,
+        "Invalid": 3,
+        "Later": 3,
+        "Not A Problem": 11,
+        "Pending Closed": 6,
+        "Resolved": 6,
+        "Unresolved": 2,
+        "Won't Fix": 10,
+        "none": 116
+      }
+    },
+    {
+      "key": [
+        "resolution",
+        "none",
+        "done"
+      ],
+      "value": "Fixed",
+      "counts": {
+        "Abandoned": 1,
+        "Cannot Reproduce": 7,
+        "Delivered": 1,
+        "Done": 32,
+        "Duplicate": 43,
+        "Fixed": 743,
+        "Implemented": 10,
+        "Information Provided": 1,
+        "Invalid": 23,
+        "Later": 5,
+        "Not A Bug": 3,
+        "Not A Problem": 12,
+        "Not a Problem": 1,
+        "Resolved": 3,
+        "Won't Do": 8,
+        "Won't Fix": 42,
+        "none": 54
+      }
+    },
+    {
+      "key": [
+        "resolution",
+        "none",
+        "duplicate"
+      ],
+      "value": "Duplicate",
+      "counts": {
+        "Abandoned": 2,
+        "Cannot Reproduce": 5,
+        "Done": 1,
+        "Duplicate": 823,
+        "Fixed": 70,
+        "Incomplete": 1,
+        "Invalid": 3,
+        "Not A Bug": 1,
+        "Not A Problem": 3,
+        "Pending Closed": 1,
+        "Resolved": 2,
+        "Won't Fix": 13,
+        "none": 45
+      }
+    },
+    {
+      "key": [
+        "resolution",
+        "none",
+        "fix"
+      ],
+      "value": "Fixed",
+      "counts": {
+        "Abandoned": 3,
+        "Auto Closed": 1,
+        "Cannot Reproduce": 14,
+        "Done": 1,
+        "Duplicate": 106,
+        "Fixed": 1416,
+        "Implemented": 11,
+        "Incomplete": 6,
+        "Information Provided": 2,
+        "Invalid": 28,
+        "Later": 6,
+        "Not A Bug": 3,
+        "Not A Problem": 30,
+        "Not a Problem": 9,
+        "Pending Closed": 1,
+        "Resolved": 2,
+        "Won't Do": 3,
+        "Won't Fix": 158,
+        "Workaround": 4,
+        "none": 294
+      }
+    },
+    {
+      "key": [
+        "resolution",
+        "none",
+        "fixed"
+      ],
+      "value": "Fixed",
+      "counts": {
+        "Auto Closed": 4,
+        "Cannot Reproduce": 67,
+        "Done": 11,
+        "Duplicate": 313,
+        "Fixed": 4202,
+        "Implemented": 25,
+        "Incomplete": 1,
+        "Information Provided": 1,
+        "Invalid": 27,
+        "Later": 9,
+        "Not A Bug": 3,
+        "Not A Problem": 43,
+        "Not a Problem": 7,
+        "Pending Closed": 1,
+        "Resolved": 10,
+        "Unresolved": 1,
+        "Won't Do": 2,
+        "Won't Fix": 61,
+        "Workaround": 1,
+        "Works for Me": 1,
+        "none": 186
+      }
+    },
+    {
+      "key": [
+        "resolution",
+        "none",
+        "invalid"
+      ],
+      "value": "Invalid",
+      "counts": {
+        "Auto Closed": 1,
+        "Cannot Reproduce": 2,
+        "Duplicate": 7,
+        "Fixed": 30,
+        "Invalid": 121,
+        "Later": 1,
+        "Not A Bug": 5,
+        "Not A Problem": 15,
+        "Not a Problem": 2,
+        "Won't Fix": 8,
+        "none": 36
+      }
+    },
+    {
+      "key": [
+        "resolution",
+        "none",
+        "merge"
+      ],
+      "value": "Fixed",
+      "counts": {
+        "Cannot Reproduce": 1,
+        "Duplicate": 10,
+        "Fixed": 195,
+        "Information Provided": 2,
+        "Invalid": 2,
+        "Later": 4,
+        "Not A Problem": 8,
+        "Not a Problem": 1,
+        "Won't Fix": 1,
+        "Works for Me": 1,
+        "none": 26
+      }
+    },
+    {
+      "key": [
+        "resolution",
+        "none",
+        "merged"
+      ],
+      "value": "Fixed",
+      "counts": {
+        "Cannot Reproduce": 2,
+        "Delivered": 1,
+        "Done": 5,
+        "Duplicate": 11,
+        "Fixed": 2803,
+        "Implemented": 21,
+        "Incomplete": 2,
+        "Invalid": 1,
+        "Later": 1,
+        "Not A Problem": 6,
+        "Not a Problem": 6,
+        "Resolved": 3,
+        "Unresolved": 1,
+        "Won't Fix": 4,
+        "none": 53
+      }
+    },
+    {
+      "key": [
+        "resolution",
+        "none",
+        "not a bug"
+      ],
+      "value": "Not A Bug",
+      "counts": {
+        "Cannot Reproduce": 1,
+        "Fixed": 4,
+        "Invalid": 19,
+        "Later": 1,
+        "Not A Bug": 21,
+        "Not A Problem": 17,
+        "Not a Problem": 5,
+        "Won't Fix": 16,
+        "none": 7
+      }
+    },
+    {
+      "key": [
+        "resolution",
+        "none",
+        "pushed"
+      ],
+      "value": "Fixed",
+      "counts": {
+        "Done": 1,
+        "Duplicate": 2,
+        "Fixed": 418,
+        "Implemented": 3,
+        "Incomplete": 2,
+        "Invalid": 1,
+        "Not A Problem": 1,
+        "Pending Closed": 1,
+        "none": 9
+      }
+    },
+    {
+      "key": [
+        "resolution",
+        "none",
+        "reopen"
+      ],
+      "value": "none",
+      "counts": {
+        "Auto Closed": 3,
+        "Cannot Reproduce": 88,
+        "Done": 1,
+        "Duplicate": 38,
+        "Fixed": 338,
+        "Implemented": 3,
+        "Incomplete": 10,
+        "Information Provided": 2,
+        "Invalid": 30,
+        "Later": 9,
+        "Not A Bug": 11,
+        "Not A Problem": 55,
+        "Not a Problem": 26,
+        "Pending Closed": 1,
+        "Resolved": 1,
+        "Unresolved": 2,
+        "Won't Do": 3,
+        "Won't Fix": 81,
+        "Workaround": 1,
+        "none": 651
+      }
+    },
+    {
+      "key": [
+        "resolution",
+        "none",
+        "resolved"
+      ],
+      "value": "Fixed",
+      "counts": {
+        "Abandoned": 1,
+        "Cannot Reproduce": 12,
+        "Delivered": 2,
+        "Done": 13,
+        "Duplicate": 71,
+        "Fixed": 2459,
+        "Implemented": 18,
+        "Incomplete": 1,
+        "Information Provided": 1,
+        "Invalid": 11,
+        "Later": 1,
+        "Not A Bug": 4,
+        "Not A Problem": 27,
+        "Not a Problem": 3,
+        "Pending Closed": 1,
+        "Resolved": 11,
+        "Unresolved": 2,
+        "Won't Do": 3,
+        "Won't Fix": 22,
+        "Workaround": 1,
+        "none": 93
+      }
+    },
+    {
+      "key": [
+        "resolution",
+        "none",
+        "won't fix"
+      ],
+      "value": "Won't Fix",
+      "counts": {
+        "Duplicate": 2,
+        "Fixed": 3,
+        "Invalid": 2,
+        "Not A Bug": 2,
+        "Not A Problem": 2,
+        "Won't Do": 1,
+        "Won't Fix": 167,
+        "none": 10
+      }
+    },
+    {
+      "key": [
+        "resolution",
+        "none",
+        "wont fix"
+      ],
+      "value": "Won't Fix",
+      "counts": {
+        "Won't Fix": 11
+      }
+    },
+    {
+      "key": [
+        "status",
+        "Closed",
+        "applied"
+      ],
+      "value": "Closed",
+      "counts": {
+        "Closed": 1
+      }
+    },
+    {
+      "key": [
+        "status",
+        "Closed",
+        "closed"
+      ],
+      "value": "Closed",
+      "counts": {
+        "Closed": 19,
+        "Reopened": 19
+      }
+    },
+    {
+      "key": [
+        "status",
+        "Closed",
+        "closing"
+      ],
+      "value": "Reopened",
+      "counts": {
+        "Reopened": 1
+      }
+    },
+    {
+      "key": [
+        "status",
+        "Closed",
+        "fix"
+      ],
+      "value": "Closed",
+      "counts": {
+        "Closed": 2,
+        "Reopened": 1
+      }
+    },
+    {
+      "key": [
+        "status",
+        "Closed",
+        "fixed"
+      ],
+      "value": "Closed",
+      "counts": {
+        "Closed": 1,
+        "Reopened": 1
+      }
+    },
+    {
+      "key": [
+        "status",
+        "Closed",
+        "reopen"
+      ],
+      "value": "Reopened",
+      "counts": {
+        "Closed": 72,
+        "Reopened": 73
+      }
+    },
+    {
+      "key": [
+        "status",
+        "Open",
+        "applied"
+      ],
+      "value": "Closed",
+      "counts": {
+        "Closed": 675,
+        "Continued": 2,
+        "In Progress": 54,
+        "On Hold": 8,
+        "Open": 63,
+        "Patch Available": 176,
+        "Reopened": 49,
+        "Resolved": 650
+      }
+    },
+    {
+      "key": [
+        "status",
+        "Open",
+        "closed"
+      ],
+      "value": "Closed",
+      "counts": {
+        "Closed": 999,
+        "Continued": 1,
+        "In Progress": 12,
+        "On Hold": 2,
+        "Open": 16,
+        "Patch Available": 59,
+        "Reopened": 74,
+        "Resolved": 271
+      }
+    },
+    {
+      "key": [
+        "status",
+        "Open",
+        "closing"
+      ],
+      "value": "Closed",
+      "counts": {
+        "Closed": 1554,
+        "In Progress": 11,
+        "Open": 23,
+        "Patch Available": 23,
+        "Reopened": 49,
+        "Resolved": 1384
+      }
+    },
+    {
+      "key": [
+        "status",
+        "Open",
+        "commit"
+      ],
+      "value": "Resolved",
+      "counts": {
+        "Closed": 166,
+        "In Progress": 125,
+        "Open": 101,
+        "Patch Available": 355,
+        "Reopened": 139,
+        "Resolved": 2626
+      }
+    },
+    {
+      "key": [
+        "status",
+        "Open",
+        "committed"
+      ],
+      "value": "Resolved",
+      "counts": {
+        "Closed": 704,
+        "In Progress": 147,
+        "On Hold": 1,
+        "Open": 72,
+        "Patch Available": 159,
+        "Reopened": 116,
+        "Resolved": 10844
+      }
+    },
+    {
+      "key": [
+        "status",
+        "Open",
+        "done"
+      ],
+      "value": "Resolved",
+      "counts": {
+        "Closed": 441,
+        "Continued": 3,
+        "In Progress": 85,
+        "On Hold": 4,
+        "Open": 86,
+        "Patch Available": 242,
+        "Reopened": 53,
+        "Resolved": 569
+      }
+    },
+    {
+      "key": [
+        "status",
+        "Open",
+        "duplicate"
+      ],
+      "value": "Resolved",
+      "counts": {
+        "Closed": 195,
+        "In Progress": 22,
+        "Open": 13,
+        "Patch Available": 68,
+        "Reopened": 47,
+        "Resolved": 762
+      }
+    },
+    {
+      "key": [
+        "status",
+        "Open",
+        "fix"
+      ],
+      "value": "Patch Available",
+      "counts": {
+        "Closed": 379,
+        "Continued": 4,
+        "In Progress": 351,
+        "On Hold": 6,
+        "Open": 314,
+        "Patch Available": 1643,
+        "Reopened": 294,
+        "Resolved": 1493
+      }
+    },
+    {
+      "key": [
+        "status",
+        "Open",
+        "fixed"
+      ],
+      "value": "Resolved",
+      "counts": {
+        "Closed": 2038,
+        "Continued": 2,
+        "In Progress": 243,
+        "On Hold": 6,
+        "Open": 209,
+        "Patch Available": 465,
+        "Reopened": 188,
+        "Resolved": 3135
+      }
+    },
+    {
+      "key": [
+        "status",
+        "Open",
+        "invalid"
+      ],
+      "value": "Resolved",
+      "counts": {
+        "Closed": 57,
+        "In Progress": 21,
+        "Open": 23,
+        "Patch Available": 100,
+        "Reopened": 36,
+        "Resolved": 161
+      }
+    },
+    {
+      "key": [
+        "status",
+        "Open",
+        "merge"
+      ],
+      "value": "Resolved",
+      "counts": {
+        "Closed": 13,
+        "In Progress": 29,
+        "Open": 37,
+        "Patch Available": 89,
+        "Reopened": 26,
+        "Resolved": 216
+      }
+    },
+    {
+      "key": [
+        "status",
+        "Open",
+        "merged"
+      ],
+      "value": "Resolved",
+      "counts": {
+        "Closed": 183,
+        "In Progress": 49,
+        "Open": 33,
+        "Patch Available": 79,
+        "Reopened": 55,
+        "Resolved": 2727
+      }
+    },
+    {
+      "key": [
+        "status",
+        "Open",
+        "not a bug"
+      ],
+      "value": "Resolved",
+      "counts": {
+        "Closed": 36,
+        "In Progress": 4,
+        "Patch Available": 2,
+        "Reopened": 7,
+        "Resolved": 55
+      }
+    },
+    {
+      "key": [
+        "status",
+        "Open",
+        "pushed"
+      ],
+      "value": "Resolved",
+      "counts": {
+        "Closed": 24,
+        "In Progress": 18,
+        "Open": 5,
+        "Patch Available": 21,
+        "Reopened": 9,
+        "Resolved": 425
+      }
+    },
+    {
+      "key": [
+        "status",
+        "Open",
+        "reopen"
+      ],
+      "value": "Reopened",
+      "counts": {
+        "Closed": 171,
+        "In Progress": 16,
+        "Open": 6,
+        "Patch Available": 92,
+        "Reopened": 656,
+        "Resolved": 446
+      }
+    },
+    {
+      "key": [
+        "status",
+        "Open",
+        "resolved"
+      ],
+      "value": "Resolved",
+      "counts": {
+        "Closed": 679,
+        "In Progress": 36,
+        "Open": 9,
+        "Patch Available": 71,
+        "Reopened": 96,
+        "Resolved": 2600
+      }
+    },
+    {
+      "key": [
+        "status",
+        "Open",
+        "won't fix"
+      ],
+      "value": "Resolved",
+      "counts": {
+        "Closed": 34,
+        "In Progress": 1,
+        "Open": 1,
+        "Patch Available": 1,
+        "Reopened": 10,
+        "Resolved": 160
+      }
+    },
+    {
+      "key": [
+        "status",
+        "Open",
+        "wont fix"
+      ],
+      "value": "Resolved",
+      "counts": {
+        "Closed": 4,
+        "Resolved": 8
+      }
+    },
+    {
+      "key": [
+        "status",
+        "Reopened",
+        "closing"
+      ],
+      "value": "Closed",
+      "counts": {
+        "Closed": 1
+      }
+    },
+    {
+      "key": [
+        "status",
+        "Reopened",
+        "committed"
+      ],
+      "value": "Closed",
+      "counts": {
+        "Closed": 1
+      }
+    },
+    {
+      "key": [
+        "status",
+        "Reopened",
+        "done"
+      ],
+      "value": "Reopened",
+      "counts": {
+        "Reopened": 1
+      }
+    },
+    {
+      "key": [
+        "status",
+        "Reopened",
+        "fix"
+      ],
+      "value": "Resolved",
+      "counts": {
+        "Resolved": 2
+      }
+    },
+    {
+      "key": [
+        "status",
+        "Reopened",
+        "fixed"
+      ],
+      "value": "Closed",
+      "counts": {
+        "Closed": 2,
+        "On Hold": 1
+      }
+    },
+    {
+      "key": [
+        "status",
+        "Resolved",
+        "closed"
+      ],
+      "value": "Closed",
+      "counts": {
+        "Closed": 5,
+        "Reopened": 5
+      }
+    },
+    {
+      "key": [
+        "status",
+        "Resolved",
+        "closing"
+      ],
+      "value": "Closed",
+      "counts": {
+        "Closed": 4,
+        "Reopened": 2
+      }
+    },
+    {
+      "key": [
+        "status",
+        "Resolved",
+        "fix"
+      ],
+      "value": "Closed",
+      "counts": {
+        "Closed": 9,
+        "Reopened": 4
+      }
+    },
+    {
+      "key": [
+        "status",
+        "Resolved",
+        "fixed"
+      ],
+      "value": "Closed",
+      "counts": {
+        "Closed": 2,
+        "Reopened": 2,
+        "Resolved": 1
+      }
+    },
+    {
+      "key": [
+        "status",
+        "Resolved",
+        "reopen"
+      ],
+      "value": "Closed",
+      "counts": {
+        "Closed": 28,
+        "Reopened": 28
+      }
+    }
+  ],
+  "prior_0": [
+    {
+      "key": [
+        "resolution",
+        "Abandoned"
+      ],
+      "value": "Implemented",
+      "counts": {
+        "Implemented": 1,
+        "Won't Fix": 1
+      }
+    },
+    {
+      "key": [
+        "resolution",
+        "Cannot Reproduce"
+      ],
+      "value": "none",
+      "counts": {
+        "Won't Fix": 1,
+        "none": 2
+      }
+    },
+    {
+      "key": [
+        "resolution",
+        "Fixed"
+      ],
+      "value": "none",
+      "counts": {
+        "Fixed": 3,
+        "Won't Fix": 1,
+        "none": 9
+      }
+    },
+    {
+      "key": [
+        "resolution",
+        "Unresolved"
+      ],
+      "value": "Fixed",
+      "counts": {
+        "Fixed": 12,
+        "Information Provided": 1,
+        "Invalid": 1,
+        "none": 1
+      }
+    },
+    {
+      "key": [
+        "resolution",
+        "none"
+      ],
+      "value": "Fixed",
+      "counts": {
+        "Abandoned": 60,
+        "Auto Closed": 383,
+        "Cannot Reproduce": 712,
+        "Delivered": 12,
+        "Done": 188,
+        "Duplicate": 2725,
+        "Feedback Received": 8,
+        "Fixed": 36783,
+        "Implemented": 341,
+        "Incomplete": 166,
+        "Information Provided": 68,
+        "Invalid": 1243,
+        "Later": 139,
+        "Not A Bug": 278,
+        "Not A Problem": 1227,
+        "Not a Problem": 197,
+        "Pending Closed": 22,
+        "REMIND": 1,
+        "Resolved": 114,
+        "Staged": 1,
+        "Unresolved": 38,
+        "Won't Do": 102,
+        "Won't Fix": 2478,
+        "Workaround": 36,
+        "Works for Me": 8,
+        "none": 3690
+      }
+    },
+    {
+      "key": [
+        "status",
+        "Closed"
+      ],
+      "value": "Reopened",
+      "counts": {
+        "Closed": 95,
+        "On Hold": 1,
+        "Reopened": 99
+      }
+    },
+    {
+      "key": [
+        "status",
+        "Open"
+      ],
+      "value": "Resolved",
+      "counts": {
+        "Closed": 12634,
+        "Continued": 28,
+        "In Progress": 3428,
+        "On Hold": 110,
+        "Open": 3568,
+        "Patch Available": 14905,
+        "Reopened": 3721,
+        "Resolved": 39243
+      }
+    },
+    {
+      "key": [
+        "status",
+        "Reopened"
+      ],
+      "value": "Closed",
+      "counts": {
+        "Closed": 7,
+        "Continued": 4,
+        "On Hold": 4,
+        "Reopened": 1,
+        "Resolved": 3
+      }
+    },
+    {
+      "key": [
+        "status",
+        "Resolved"
+      ],
+      "value": "Closed",
+      "counts": {
+        "Closed": 57,
+        "Reopened": 52,
+        "Resolved": 1
+      }
+    },
+    {
+      "key": [
+        "status",
+        "Waiting for Infra"
+      ],
+      "value": "Open",
+      "counts": {
+        "Open": 1,
+        "Resolved": 1
+      }
+    }
+  ],
+  "tie_break": "lexicographically smallest value",
+  "keyword_rule": "earliest occurrence in comment; keyword-list order breaks ties"
+}

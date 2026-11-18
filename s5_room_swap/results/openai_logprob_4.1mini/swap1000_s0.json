@@ -1,0 +1,10034 @@
+{
+ "id": "swap1000_s0",
+ "length": 1000,
+ "seed": 0,
+ "model": "gpt-4.1-mini",
+ "wall_s": 14.809404250001535,
+ "n_fields": 2000,
+ "n_fields_gold": 2000,
+ "wrong_fields": 0,
+ "min_logprob": -0.000912,
+ "usage": {
+  "input_tokens": 20737,
+  "output_tokens": 7100
+ },
+ "fields": [
+  {
+   "name": "영희",
+   "logprob": -9.2e-05,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": -2.7e-05,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": -4e-06,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": -0.000385,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": -4e-06,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": -4e-06,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": -0.000912,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": -1.1e-05,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": -1.1e-05,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": -4e-06,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": -1.5e-05,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": -8e-06,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": -3.4e-05,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "민수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "현우",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "철수",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "영희",
+   "logprob": 0.0,
+   "correct": true
+  },
+  {
+   "name": "지아",
+   "logprob": 0.0,
+   "correct": true
+  }
+ ],
+ "answer": "철수: 1\n영희: 2\n민수: 3\n지아: 4\n현우: 5",
+ "truth": [
+  1,
+  2,
+  3,
+  4,
+  5
+ ],
+ "parsed": {
+  "철수": 1,
+  "영희": 2,
+  "민수": 3,
+  "지아": 4,
+  "현우": 5
+ },
+ "people_correct": 5,
+ "exact": true
+}

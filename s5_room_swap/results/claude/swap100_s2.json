@@ -1,0 +1,35 @@
+{
+ "id": "swap100_s2",
+ "length": 100,
+ "seed": 2,
+ "model": "claude-sonnet-5-5",
+ "wall_s": 17.49771599995438,
+ "stop_reason": "end_turn",
+ "usage": {
+  "input_tokens": 2766,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 0,
+  "output_tokens": 3281,
+  "output_tokens_details": {
+   "thinking_tokens": 3250
+  }
+ },
+ "thinking_tokens": 3250,
+ "answer": "철수: 2\n영희: 4\n민수: 5\n지아: 3\n현우: 1",
+ "truth": [
+  2,
+  4,
+  5,
+  3,
+  1
+ ],
+ "parsed": {
+  "철수": 2,
+  "영희": 4,
+  "민수": 5,
+  "지아": 3,
+  "현우": 1
+ },
+ "people_correct": 5,
+ "exact": true
+}

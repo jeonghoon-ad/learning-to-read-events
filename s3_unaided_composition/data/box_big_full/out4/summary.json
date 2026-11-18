@@ -1,0 +1,245 @@
+{
+  "cells": {
+    "H3:B-think:64": {
+      "correct": 23,
+      "total": 25,
+      "bounds": {
+        "lower_one_sided": 0.7689600660418558,
+        "upper_one_sided": 0.9855968020208263,
+        "lower_two_sided": 0.7396941578947858,
+        "upper_two_sided": 0.9901604099812025
+      },
+      "format_fail": 1,
+      "accuracy": 0.92
+    }
+  },
+  "collapse": {
+    "H3:B-think": {
+      "n_fall": 64,
+      "n_chance": null,
+      "matched_accuracy_lengths": "not reached"
+    }
+  },
+  "copy": {
+    "H3": {
+      "correct": 1,
+      "total": 20,
+      "bounds": {
+        "lower_one_sided": 0.0025613787765302806,
+        "upper_one_sided": 0.2161061642068473,
+        "lower_two_sided": 0.0012650894979498038,
+        "upper_two_sided": 0.24873276277202777
+      },
+      "format_not_read": true,
+      "rows": [
+        {
+          "seed": 99100,
+          "answer": "To determine the last event in the sequence, we need to",
+          "generation": "To determine the last event in the sequence, we need to",
+          "truth": "13254",
+          "exact": false,
+          "prompt_tokens": 138,
+          "generated_tokens": 12
+        },
+        {
+          "seed": 99101,
+          "answer": "To determine the last event in the final list, we simply",
+          "generation": "To determine the last event in the final list, we simply",
+          "truth": "14532",
+          "exact": false,
+          "prompt_tokens": 138,
+          "generated_tokens": 12
+        },
+        {
+          "seed": 99102,
+          "answer": "To determine the last event in the final sequence, we simply",
+          "generation": "To determine the last event in the final sequence, we simply",
+          "truth": "34125",
+          "exact": false,
+          "prompt_tokens": 138,
+          "generated_tokens": 12
+        },
+        {
+          "seed": 99103,
+          "answer": "To determine the last event in the final sequence, we simply",
+          "generation": "To determine the last event in the final sequence, we simply",
+          "truth": "13254",
+          "exact": false,
+          "prompt_tokens": 138,
+          "generated_tokens": 12
+        },
+        {
+          "seed": 99104,
+          "answer": "To determine the last event in the final list, we simply",
+          "generation": "To determine the last event in the final list, we simply",
+          "truth": "24531",
+          "exact": false,
+          "prompt_tokens": 138,
+          "generated_tokens": 12
+        },
+        {
+          "seed": 99105,
+          "answer": "To determine the last event in the final sequence, we simply",
+          "generation": "To determine the last event in the final sequence, we simply",
+          "truth": "24153",
+          "exact": false,
+          "prompt_tokens": 138,
+          "generated_tokens": 12
+        },
+        {
+          "seed": 99106,
+          "answer": "To determine the last event in the final sequence, we simply",
+          "generation": "To determine the last event in the final sequence, we simply",
+          "truth": "43125",
+          "exact": false,
+          "prompt_tokens": 138,
+          "generated_tokens": 12
+        },
+        {
+          "seed": 99107,
+          "answer": "To determine the last event in the final sequence, we simply",
+          "generation": "To determine the last event in the final sequence, we simply",
+          "truth": "25341",
+          "exact": false,
+          "prompt_tokens": 138,
+          "generated_tokens": 12
+        },
+        {
+          "seed": 99108,
+          "answer": "45132",
+          "generation": "45132",
+          "truth": "45132",
+          "exact": true,
+          "prompt_tokens": 138,
+          "generated_tokens": 5
+        },
+        {
+          "seed": 99109,
+          "answer": "To determine the last event in the final list, we simply",
+          "generation": "To determine the last event in the final list, we simply",
+          "truth": "51432",
+          "exact": false,
+          "prompt_tokens": 138,
+          "generated_tokens": 12
+        },
+        {
+          "seed": 99110,
+          "answer": "To determine the last event in the final sequence, we simply",
+          "generation": "To determine the last event in the final sequence, we simply",
+          "truth": "21534",
+          "exact": false,
+          "prompt_tokens": 138,
+          "generated_tokens": 12
+        },
+        {
+          "seed": 99111,
+          "answer": "To determine the last event in the final sequence, we simply",
+          "generation": "To determine the last event in the final sequence, we simply",
+          "truth": "14523",
+          "exact": false,
+          "prompt_tokens": 138,
+          "generated_tokens": 12
+        },
+        {
+          "seed": 99112,
+          "answer": "To determine the last event in the final sequence, we simply",
+          "generation": "To determine the last event in the final sequence, we simply",
+          "truth": "15342",
+          "exact": false,
+          "prompt_tokens": 138,
+          "generated_tokens": 12
+        },
+        {
+          "seed": 99113,
+          "answer": "To determine the last event in the final sequence, we simply",
+          "generation": "To determine the last event in the final sequence, we simply",
+          "truth": "23154",
+          "exact": false,
+          "prompt_tokens": 138,
+          "generated_tokens": 12
+        },
+        {
+          "seed": 99114,
+          "answer": "To determine the last event in the final list, we simply",
+          "generation": "To determine the last event in the final list, we simply",
+          "truth": "41235",
+          "exact": false,
+          "prompt_tokens": 138,
+          "generated_tokens": 12
+        },
+        {
+          "seed": 99115,
+          "answer": "To determine the last event in the final list, we simply",
+          "generation": "To determine the last event in the final list, we simply",
+          "truth": "52431",
+          "exact": false,
+          "prompt_tokens": 138,
+          "generated_tokens": 12
+        },
+        {
+          "seed": 99116,
+          "answer": "To determine the last event in the final sequence, we simply",
+          "generation": "To determine the last event in the final sequence, we simply",
+          "truth": "21453",
+          "exact": false,
+          "prompt_tokens": 138,
+          "generated_tokens": 12
+        },
+        {
+          "seed": 99117,
+          "answer": "To determine the last event in the final list, we simply",
+          "generation": "To determine the last event in the final list, we simply",
+          "truth": "13524",
+          "exact": false,
+          "prompt_tokens": 138,
+          "generated_tokens": 12
+        },
+        {
+          "seed": 99118,
+          "answer": "To determine the last event in the final sequence, we simply",
+          "generation": "To determine the last event in the final sequence, we simply",
+          "truth": "51342",
+          "exact": false,
+          "prompt_tokens": 138,
+          "generated_tokens": 12
+        },
+        {
+          "seed": 99119,
+          "answer": "To determine the last event in the final sequence, we simply",
+          "generation": "To determine the last event in the final sequence, we simply",
+          "truth": "54231",
+          "exact": false,
+          "prompt_tokens": 138,
+          "generated_tokens": 12
+        }
+      ]
+    }
+  },
+  "cost": [
+    {
+      "host": "H3",
+      "arm": "B-think",
+      "n": 64,
+      "seed": 86000,
+      "prompt_tokens": 698,
+      "generated_tokens": 14250,
+      "prefill_seconds": 0.6440810589119792,
+      "decode_seconds": 669.8584062349983,
+      "peak_cuda_bytes_above_weights": 1165661184,
+      "cache_bytes": 1134493696,
+      "per_event": {
+        "prompt_tokens": 10.90625,
+        "generated_tokens": 222.65625,
+        "prefill_seconds": 0.010063766545499675,
+        "decode_seconds": 10.466537597421848,
+        "peak_cuda_bytes_above_weights": 18213456.0,
+        "cache_bytes": 17726464.0
+      }
+    }
+  ],
+  "null": {
+    "H3": {
+      "status": "not informative (A at chance)"
+    }
+  }
+}

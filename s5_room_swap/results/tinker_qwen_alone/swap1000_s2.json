@@ -1,0 +1,37 @@
+{
+ "id": "swap1000_s2",
+ "length": 1000,
+ "seed": 2,
+ "model": "Qwen/Qwen3.5-397B-A17B:peft:262144",
+ "renderer": "qwen3_5",
+ "arm": "alone",
+ "max_tokens": 32768,
+ "wall_s": 54.82712695898954,
+ "usage": {
+  "input_tokens": 19990,
+  "output_tokens": 18582,
+  "reasoning_tokens": 18540
+ },
+ "thinking_tokens": 18540,
+ "answer_tokens": 40,
+ "cost_usd": 0.1723485,
+ "answer": "철수: 1 호실\n영희: 2 호실\n민수: 3 호실\n지아: 4 호실\n현우: 5 호실",
+ "truth": [
+  5,
+  3,
+  4,
+  1,
+  2
+ ],
+ "finish_reason": "stop",
+ "cap_hit": false,
+ "parsed": {
+  "철수": 1,
+  "영희": 2,
+  "민수": 3,
+  "지아": 4,
+  "현우": 5
+ },
+ "people_correct": 0,
+ "exact": false
+}

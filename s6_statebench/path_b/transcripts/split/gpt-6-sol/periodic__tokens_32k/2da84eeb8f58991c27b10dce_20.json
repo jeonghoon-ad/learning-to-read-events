@@ -1,0 +1,18 @@
+{
+ "attempts": [
+  {
+   "attempt": 1,
+   "ok": true,
+   "reasons": [],
+   "cost": 0.010858000000000001,
+   "latency_s": 6.5306103229522705,
+   "tin": 864,
+   "tout": 913,
+   "logprob_min": null,
+   "text": "4001|copy|TMP|a\n4002|copy|a|b\n4003|copy|b|TMP\n4004|copy|TMP|a\n4005|copy|a|b\n4006|copy|b|TMP\n4007|copy|TMP|b\n4008|copy|b|a\n4009|copy|a|TMP\n4010|copy|TMP|a\n4011|copy|a|b\n4012|copy|b|TMP\n4013|copy|TMP|a\n4014|copy|a|b\n4015|copy|b|TMP\n4016|copy|TMP|a\n4017|copy|a|b\n4018|copy|b|TMP\n4019|copy|TMP|a\n4020|copy|a|b\n4021|copy|b|TMP\n4022|copy|TMP|b\n4023|copy|b|a\n4024|copy|a|TMP\n4025|copy|TMP|b\n4026|copy|b|a\n4027|copy|a|TMP\n4028|copy|TMP|b\n4029|copy|b|a\n4030|copy|a|TMP\n4031|copy|TMP|a\n4032|copy|a|b\n4033|copy|b|TMP\n4034|copy|TMP|a\n4035|copy|a|b\n4036|copy|b|TMP\n4037|copy|TMP|a\n4038|copy|a|b\n4039|copy|b|TMP\n4040|copy|TMP|b\n4041|copy|b|a\n4042|copy|a|TMP\n4043|copy|TMP|b\n4044|copy|b|a\n4045|copy|a|TMP\n4046|copy|TMP|a\n4047|copy|a|b\n4048|copy|b|TMP\n4049|copy|TMP|a\n4050|copy|a|b\n4051|copy|b|TMP\n4052|copy|TMP|a\n4053|copy|a|b\n4054|copy|b|TMP\n4055|copy|TMP|a\n4056|copy|a|b\n4057|copy|b|TMP\n4058|copy|TMP|a\n4059|copy|a|b\n4060|copy|b|TMP\n4061|copy|TMP|b\n4062|copy|b|a\n4063|copy|a|TMP\n4064|copy|TMP|b\n4065|copy|b|a\n4066|copy|a|TMP\n4067|copy|TMP|b\n4068|copy|b|a\n4069|copy|a|TMP\n4070|copy|TMP|a\n4071|copy|a|b\n4072|copy|b|TMP\n4073|copy|TMP|b\n4074|copy|b|a\n4075|copy|a|TMP\n4076|copy|TMP|a\n4077|copy|a|b\n4078|copy|b|TMP\n4079|copy|TMP|b\n4080|copy|b|a\n4081|copy|a|TMP\n4082|copy|TMP|a\n4083|copy|a|b\n4084|copy|b|TMP\n4085|copy|TMP|a\n4086|copy|a|b\n4087|copy|b|TMP\n4088|copy|TMP|a\n4089|copy|a|b\n4090|copy|b|TMP\n4091|copy|TMP|b\n4092|copy|b|a\n4093|copy|a|TMP\n4094|copy|TMP|b\n4095|copy|b|a\n4096|copy|a|TMP\n4097|copy|TMP|b\n4098|copy|b|a\n4099|copy|a|TMP"
+  }
+ ],
+ "prompt_sha256": "719e9c0eb8b526f694e73aa902c5464b0cac14e9086bd30df96483f8c5105b0d",
+ "prompt_chars": 2239,
+ "prompt_note": "prompt text removed (it quotes StateBench item lines); rebuild it from the item with code/run_api_reg.py"
+}

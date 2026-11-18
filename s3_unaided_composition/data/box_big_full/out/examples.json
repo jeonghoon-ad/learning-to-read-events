@@ -1,0 +1,10 @@
+{
+  "A": {
+    "prompt": "<|im_start|>user\nStart with state 12345. Each event rewrites the state: replace every digit d of the state by the d-th digit of the event.\nReturn only the final five-digit state.\n\nEvents: 32145,<|im_end|>\n<|im_start|>assistant\n<think>\n\n</think>\n\n32145<|im_end|>\n<|im_start|>user\nEvents: 32415,42135,<|im_end|>\n<|im_start|>assistant\n<think>\n\n</think>\n\n12345<|im_end|>\n<|im_start|>user\nEvents: 51324,35241,51243,<|im_end|>\n<|im_start|>assistant\n<think>\n\n</think>\n\n52134<|im_end|>\n<|im_start|>user\nEvents: 31542,<|im_end|>\n<|im_start|>assistant\n<think>\n\n</think>\n\n",
+    "generation": "31542"
+  },
+  "B": {
+    "prompt": "<|im_start|>user\nStart with state 12345. Each event rewrites the state: replace every digit d of the state by the d-th digit of the event.\nWrite one line per event as t: event > state, then final: state.\n\nEvents: 32145,<|im_end|>\n<|im_start|>assistant\n<think>\n\n</think>\n\n1: 32145 > 32145\nfinal: 32145<|im_end|>\n<|im_start|>user\nEvents: 32415,42135,<|im_end|>\n<|im_start|>assistant\n<think>\n\n</think>\n\n1: 32415 > 32415\n2: 42135 > 12345\nfinal: 12345<|im_end|>\n<|im_start|>user\nEvents: 51324,35241,51243,<|im_end|>\n<|im_start|>assistant\n<think>\n\n</think>\n\n1: 51324 > 51324\n2: 35241 > 13254\n3: 51243 > 52134\nfinal: 52134<|im_end|>\n<|im_start|>user\nEvents: 31542,<|im_end|>\n<|im_start|>assistant\n<think>\n\n</think>\n\n",
+    "generation": "1: 31542 > 31542\nfinal: 31542"
+  }
+}

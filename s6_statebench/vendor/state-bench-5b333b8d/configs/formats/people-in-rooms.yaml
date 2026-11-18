@@ -1,0 +1,25 @@
+schema_version: 1
+name: people-in-rooms
+
+vocabulary:
+  variables: [Alice, Bob, Carol, David, Elena, Frank, Grace, Henry, Iris, James, Karen, Leo, Maya, Noah, Olivia, Peter]
+  temporary_variable: Taylor
+  values: [kitchen, garden, library, office, bedroom, garage, attic, basement, hallway, studio, lounge, pantry, cellar, balcony, porch, foyer, den, nursery, workshop, greenhouse, laundry, closet, bathroom, gym, sauna, solarium, conservatory, parlor, ballroom, chapel, vault, archive, gallery, theater, cinema, arcade, cafeteria, canteen, lobby, atrium, mezzanine, penthouse, suite, dormitory, barracks, infirmary, clinic, pharmacy, laboratory, observatory, planetarium, aquarium, aviary, stable, barn, silo, shed, boathouse, lighthouse, bunker, hangar, depot, warehouse, showroom, salon, bakery, brewery, winery, distillery, forge, foundry, mill, granary, vineyard, apiary, kennel, coop, dairy, smokehouse, icehouse, toolshed, sunroom, mudroom, playroom, guestroom, vestibule, corridor, stairwell, landing, loft, garret, turret, tower, courtyard, terrace, veranda, patio, gazebo, cabana, bungalow]
+
+templates:
+  task_description: >-
+    Track where each person is after following the movements in order.
+  assign_constant: "$target enters the $value."
+  assign_reference: "$target moves to $source's current location."
+  answer_prompt: "Final locations:"
+  state_assertion: "$variable is in the $value."
+  filler_easy: "$filler_dots"
+  filler_medium: "Unrelated background note $filler_index."
+  filler_hard: "Archived note, not a movement: $variable was previously in the $value."
+
+layout:
+  prompt_blocks: [task_description, program, answer_prompt]
+  block_separator: "\n\n"
+  instruction_separator: " "
+  completion_separator: " "
+  trailing_newline: false

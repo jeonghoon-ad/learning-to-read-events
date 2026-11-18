@@ -1,0 +1,18 @@
+{
+ "attempts": [
+  {
+   "attempt": 1,
+   "ok": true,
+   "reasons": [],
+   "cost": 0.028,
+   "latency_s": 8.717978954315186,
+   "tin": 1275,
+   "tout": 1145,
+   "logprob_min": null,
+   "text": "4001|copy|d|c\n4002|copy|c|TMP\n4003|copy|TMP|b\n4004|copy|b|a\n4005|copy|a|TMP\n4006|copy|TMP|a\n4007|copy|a|b\n4008|copy|b|TMP\n4009|copy|TMP|c\n4010|copy|c|d\n4011|copy|d|TMP\n4012|copy|TMP|d\n4013|copy|d|b\n4014|copy|b|TMP\n4015|copy|TMP|c\n4016|copy|c|a\n4017|copy|a|TMP\n4018|copy|TMP|d\n4019|copy|d|a\n4020|copy|a|TMP\n4021|copy|TMP|c\n4022|copy|c|b\n4023|copy|b|TMP\n4024|copy|TMP|c\n4025|copy|c|b\n4026|copy|b|TMP\n4027|copy|TMP|a\n4028|copy|a|d\n4029|copy|d|TMP\n4030|copy|TMP|d\n4031|copy|d|c\n4032|copy|c|TMP\n4033|copy|TMP|b\n4034|copy|b|a\n4035|copy|a|TMP\n4036|copy|TMP|c\n4037|copy|c|b\n4038|copy|b|TMP\n4039|copy|TMP|a\n4040|copy|a|d\n4041|copy|d|TMP\n4042|copy|TMP|a\n4043|copy|a|c\n4044|copy|c|TMP\n4045|copy|TMP|b\n4046|copy|b|d\n4047|copy|d|TMP\n4048|copy|TMP|a\n4049|copy|a|b\n4050|copy|b|TMP\n4051|copy|TMP|c\n4052|copy|c|d\n4053|copy|d|TMP\n4054|copy|TMP|c\n4055|copy|c|d\n4056|copy|d|TMP\n4057|copy|TMP|b\n4058|copy|b|a\n4059|copy|a|TMP\n4060|copy|TMP|a\n4061|copy|a|b\n4062|copy|b|TMP\n4063|copy|TMP|c\n4064|copy|c|d\n4065|copy|d|TMP\n4066|copy|TMP|c\n4067|copy|c|d\n4068|copy|d|TMP\n4069|copy|TMP|a\n4070|copy|a|b\n4071|copy|b|TMP\n4072|copy|TMP|d\n4073|copy|d|c\n4074|copy|c|TMP\n4075|copy|TMP|b\n4076|copy|b|a\n4077|copy|a|TMP\n4078|copy|TMP|c\n4079|copy|c|d\n4080|copy|d|TMP\n4081|copy|TMP|b\n4082|copy|b|a\n4083|copy|a|TMP\n4084|copy|TMP|b\n4085|copy|b|d\n4086|copy|d|TMP\n4087|copy|TMP|a\n4088|copy|a|c\n4089|copy|c|TMP\n4090|copy|TMP|d\n4091|copy|d|c\n4092|copy|c|TMP\n4093|copy|TMP|a\n4094|copy|a|b\n4095|copy|b|TMP\n4096|copy|TMP|c\n4097|copy|c|d\n4098|copy|d|TMP\n4099|copy|TMP|a\n4100|copy|a|b\n4101|copy|b|TMP"
+  }
+ ],
+ "prompt_sha256": "92c055e505497c88b30529a61914ef0e60230972bc927b30a6e76c324c0b9dc8",
+ "prompt_chars": 2269,
+ "prompt_note": "prompt text removed (it quotes StateBench item lines); rebuild it from the item with code/run_api_reg.py"
+}

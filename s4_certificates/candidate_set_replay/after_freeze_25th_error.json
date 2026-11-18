@@ -1,0 +1,123 @@
+{
+ "rungs_attempt3_runtime": {
+  "0.01": 188.2713343017578,
+  "0.1": 379.19735229492187,
+  "1": 712.596796875,
+  "5": 977.8333251953126
+ },
+ "windows": 299,
+ "per_rung": {
+  "0.01": {
+   "T": 188.2713343017578,
+   "errors": 1,
+   "errors_flagged": 0,
+   "error_detail": [
+    {
+     "event": 31008,
+     "true": 119,
+     "top1": 118,
+     "top2": 119,
+     "margin": 260.70068359375,
+     "flagged": false,
+     "truth_in_top2": true
+    }
+   ],
+   "wrong_exact_released_events": 0,
+   "baseline_wrong_released_events": 1753,
+   "final_wrong_exact": 0,
+   "baseline_final_wrong": 1,
+   "withheld_events": 9223056,
+   "real_events": 9795240,
+   "flagged_events": 937,
+   "truth_in_final_set": 299,
+   "end_anchor_single_correct": 90,
+   "final_exact": 15,
+   "final_size_median": 6,
+   "final_size_max": 88
+  },
+  "0.1": {
+   "T": 379.19735229492187,
+   "errors": 1,
+   "errors_flagged": 1,
+   "error_detail": [
+    {
+     "event": 31008,
+     "true": 119,
+     "top1": 118,
+     "top2": 119,
+     "margin": 260.70068359375,
+     "flagged": true,
+     "truth_in_top2": true
+    }
+   ],
+   "wrong_exact_released_events": 0,
+   "baseline_wrong_released_events": 1753,
+   "final_wrong_exact": 0,
+   "baseline_final_wrong": 1,
+   "withheld_events": 9788909,
+   "real_events": 9795240,
+   "flagged_events": 10037,
+   "truth_in_final_set": 299,
+   "end_anchor_single_correct": 0,
+   "final_exact": 0,
+   "final_size_median": 120,
+   "final_size_max": 120
+  },
+  "1": {
+   "T": 712.596796875,
+   "errors": 1,
+   "errors_flagged": 1,
+   "error_detail": [
+    {
+     "event": 31008,
+     "true": 119,
+     "top1": 118,
+     "top2": 119,
+     "margin": 260.70068359375,
+     "flagged": true,
+     "truth_in_top2": true
+    }
+   ],
+   "wrong_exact_released_events": 0,
+   "baseline_wrong_released_events": 1753,
+   "final_wrong_exact": 0,
+   "baseline_final_wrong": 1,
+   "withheld_events": 9794825,
+   "real_events": 9795240,
+   "flagged_events": 97372,
+   "truth_in_final_set": 299,
+   "end_anchor_single_correct": 0,
+   "final_exact": 0,
+   "final_size_median": 120,
+   "final_size_max": 120
+  },
+  "5": {
+   "T": 977.8333251953126,
+   "errors": 1,
+   "errors_flagged": 1,
+   "error_detail": [
+    {
+     "event": 31008,
+     "true": 119,
+     "top1": 118,
+     "top2": 119,
+     "margin": 260.70068359375,
+     "flagged": true,
+     "truth_in_top2": true
+    }
+   ],
+   "wrong_exact_released_events": 0,
+   "baseline_wrong_released_events": 1753,
+   "final_wrong_exact": 0,
+   "baseline_final_wrong": 1,
+   "withheld_events": 9795155,
+   "real_events": 9795240,
+   "flagged_events": 485628,
+   "truth_in_final_set": 299,
+   "end_anchor_single_correct": 0,
+   "final_exact": 0,
+   "final_size_median": 120,
+   "final_size_max": 120
+  }
+ }
+}

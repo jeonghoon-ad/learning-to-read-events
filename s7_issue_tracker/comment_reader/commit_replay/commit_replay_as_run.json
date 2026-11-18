@@ -1,0 +1,170 @@
+{
+ "reader": {
+  "dev_n": 4781,
+  "dev_accuracy": 0.7933486718259778,
+  "tau_0999": {
+   "tau": 0.9966224796360541,
+   "dev_released": 240,
+   "dev_wrong": 0
+  },
+  "tau_099": {
+   "tau": 0.9754095373005509,
+   "dev_released": 1111,
+   "dev_wrong": 11
+  },
+  "implicit": {
+   "exact_0999": {
+    "released": 22,
+    "coverage": 0.044,
+    "wrong": 0,
+    "precision": 1.0,
+    "wrong_rate_cp95_upper": 0.15437251281557457,
+    "flagged": 478,
+    "flagged_accuracy": 0.6757322175732218
+   },
+   "exact_099": {
+    "released": 78,
+    "coverage": 0.156,
+    "wrong": 3,
+    "precision": 0.9615384615384616,
+    "wrong_rate_cp95_upper": 0.10831165028927246,
+    "flagged": 422,
+    "flagged_accuracy": 0.6398104265402843
+   },
+   "set_0.95": {
+    "truth_in_set": 0.948,
+    "mean_size": 2.552,
+    "singleton_rate": 0.226,
+    "singleton_accuracy": 0.9380530973451328,
+    "mean_vocab_size": 8.58
+   },
+   "set_0.99": {
+    "truth_in_set": 0.98,
+    "mean_size": 3.79,
+    "singleton_rate": 0.09,
+    "singleton_accuracy": 0.9777777777777777,
+    "mean_vocab_size": 8.58
+   },
+   "plain_accuracy": 0.69
+  },
+  "explicit": {
+   "exact_0999": {
+    "released": 9,
+    "coverage": 0.09,
+    "wrong": 0,
+    "precision": 1.0,
+    "wrong_rate_cp95_upper": 0.3362671168799428,
+    "flagged": 91,
+    "flagged_accuracy": 0.9120879120879121
+   },
+   "exact_099": {
+    "released": 41,
+    "coverage": 0.41,
+    "wrong": 0,
+    "precision": 1.0,
+    "wrong_rate_cp95_upper": 0.08604383629402843,
+    "flagged": 59,
+    "flagged_accuracy": 0.864406779661017
+   },
+   "set_0.95": {
+    "truth_in_set": 0.99,
+    "mean_size": 1.77,
+    "singleton_rate": 0.54,
+    "singleton_accuracy": 1.0,
+    "mean_vocab_size": 10.29
+   },
+   "set_0.99": {
+    "truth_in_set": 0.99,
+    "mean_size": 3.0,
+    "singleton_rate": 0.25,
+    "singleton_accuracy": 1.0,
+    "mean_vocab_size": 10.29
+   },
+   "plain_accuracy": 0.92
+  }
+ },
+ "twin": {
+  "dev_n": 4781,
+  "dev_accuracy": 0.5835599247019452,
+  "tau_0999": {
+   "tau": 0.8838990386668605,
+   "dev_released": 19,
+   "dev_wrong": 0
+  },
+  "tau_099": {
+   "tau": 0.8838990386668605,
+   "dev_released": 19,
+   "dev_wrong": 0
+  },
+  "implicit": {
+   "exact_0999": {
+    "released": 7,
+    "coverage": 0.014,
+    "wrong": 1,
+    "precision": 0.8571428571428572,
+    "wrong_rate_cp95_upper": 0.5787231970431952,
+    "flagged": 493,
+    "flagged_accuracy": 0.563894523326572
+   },
+   "exact_099": {
+    "released": 7,
+    "coverage": 0.014,
+    "wrong": 1,
+    "precision": 0.8571428571428572,
+    "wrong_rate_cp95_upper": 0.5787231970431952,
+    "flagged": 493,
+    "flagged_accuracy": 0.563894523326572
+   },
+   "set_0.95": {
+    "truth_in_set": 0.936,
+    "mean_size": 4.256,
+    "singleton_rate": 0.0,
+    "singleton_accuracy": null,
+    "mean_vocab_size": 8.58
+   },
+   "set_0.99": {
+    "truth_in_set": 0.972,
+    "mean_size": 6.25,
+    "singleton_rate": 0.0,
+    "singleton_accuracy": null,
+    "mean_vocab_size": 8.58
+   },
+   "plain_accuracy": 0.568
+  },
+  "explicit": {
+   "exact_0999": {
+    "released": 1,
+    "coverage": 0.01,
+    "wrong": 1,
+    "precision": 0.0,
+    "wrong_rate_cp95_upper": 1.0,
+    "flagged": 99,
+    "flagged_accuracy": 0.6363636363636364
+   },
+   "exact_099": {
+    "released": 1,
+    "coverage": 0.01,
+    "wrong": 1,
+    "precision": 0.0,
+    "wrong_rate_cp95_upper": 1.0,
+    "flagged": 99,
+    "flagged_accuracy": 0.6363636363636364
+   },
+   "set_0.95": {
+    "truth_in_set": 0.91,
+    "mean_size": 4.63,
+    "singleton_rate": 0.0,
+    "singleton_accuracy": null,
+    "mean_vocab_size": 10.29
+   },
+   "set_0.99": {
+    "truth_in_set": 0.98,
+    "mean_size": 7.25,
+    "singleton_rate": 0.0,
+    "singleton_accuracy": null,
+    "mean_vocab_size": 10.29
+   },
+   "plain_accuracy": 0.63
+  }
+ }
+}

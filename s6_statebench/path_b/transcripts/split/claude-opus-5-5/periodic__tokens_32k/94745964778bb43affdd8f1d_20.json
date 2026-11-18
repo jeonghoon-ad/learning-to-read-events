@@ -1,0 +1,18 @@
+{
+ "attempts": [
+  {
+   "attempt": 1,
+   "ok": true,
+   "reasons": [],
+   "cost": 0.029088000000000003,
+   "latency_s": 8.744447946548462,
+   "tin": 1317,
+   "tout": 1191,
+   "logprob_min": null,
+   "text": "4001|copy|TMP|f\n4002|copy|f|e\n4003|copy|e|TMP\n4004|copy|TMP|d\n4005|copy|d|a\n4006|copy|a|TMP\n4007|copy|TMP|h\n4008|copy|h|g\n4009|copy|g|TMP\n4010|copy|TMP|d\n4011|copy|d|c\n4012|copy|c|TMP\n4013|copy|TMP|g\n4014|copy|g|a\n4015|copy|a|TMP\n4016|copy|TMP|e\n4017|copy|e|f\n4018|copy|f|TMP\n4019|copy|TMP|h\n4020|copy|h|b\n4021|copy|b|TMP\n4022|copy|TMP|f\n4023|copy|f|a\n4024|copy|a|TMP\n4025|copy|TMP|c\n4026|copy|c|d\n4027|copy|d|TMP\n4028|copy|TMP|h\n4029|copy|h|g\n4030|copy|g|TMP\n4031|copy|TMP|b\n4032|copy|b|e\n4033|copy|e|TMP\n4034|copy|TMP|a\n4035|copy|a|h\n4036|copy|h|TMP\n4037|copy|TMP|g\n4038|copy|g|f\n4039|copy|f|TMP\n4040|copy|TMP|b\n4041|copy|b|c\n4042|copy|c|TMP\n4043|copy|TMP|e\n4044|copy|e|d\n4045|copy|d|TMP\n4046|copy|TMP|d\n4047|copy|d|g\n4048|copy|g|TMP\n4049|copy|TMP|a\n4050|copy|a|c\n4051|copy|c|TMP\n4052|copy|TMP|h\n4053|copy|h|b\n4054|copy|b|TMP\n4055|copy|TMP|e\n4056|copy|e|f\n4057|copy|f|TMP\n4058|copy|TMP|b\n4059|copy|b|e\n4060|copy|e|TMP\n4061|copy|TMP|f\n4062|copy|f|c\n4063|copy|c|TMP\n4064|copy|TMP|d\n4065|copy|d|g\n4066|copy|g|TMP\n4067|copy|TMP|a\n4068|copy|a|h\n4069|copy|h|TMP\n4070|copy|TMP|g\n4071|copy|g|e\n4072|copy|e|TMP\n4073|copy|TMP|b\n4074|copy|b|a\n4075|copy|a|TMP\n4076|copy|TMP|h\n4077|copy|h|c\n4078|copy|c|TMP\n4079|copy|TMP|f\n4080|copy|f|d\n4081|copy|d|TMP\n4082|copy|TMP|b\n4083|copy|b|h\n4084|copy|h|TMP\n4085|copy|TMP|c\n4086|copy|c|e\n4087|copy|e|TMP\n4088|copy|TMP|f\n4089|copy|f|g\n4090|copy|g|TMP\n4091|copy|TMP|a\n4092|copy|a|d\n4093|copy|d|TMP\n4094|copy|TMP|a\n4095|copy|a|d\n4096|copy|d|TMP\n4097|copy|TMP|f\n4098|copy|f|h\n4099|copy|h|TMP\n4100|copy|TMP|g\n4101|copy|g|c\n4102|copy|c|TMP\n4103|copy|TMP|b\n4104|copy|b|e\n4105|copy|e|TMP"
+  }
+ ],
+ "prompt_sha256": "ba8a5ab4211ad39be47a6f3becb90db906b6e531e612871ac3c807d26c5c1d37",
+ "prompt_chars": 2331,
+ "prompt_note": "prompt text removed (it quotes StateBench item lines); rebuild it from the item with code/run_api_reg.py"
+}

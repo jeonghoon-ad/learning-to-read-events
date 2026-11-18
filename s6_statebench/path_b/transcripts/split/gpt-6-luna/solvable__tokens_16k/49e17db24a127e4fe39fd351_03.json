@@ -1,0 +1,18 @@
+{
+ "attempts": [
+  {
+   "attempt": 1,
+   "ok": true,
+   "reasons": [],
+   "cost": 0.0010141,
+   "latency_s": 15.342028856277466,
+   "tin": 2631,
+   "tout": 1502,
+   "logprob_min": null,
+   "text": "601|add|b|10\n602|add|TMP|0\n603|add|b|90\n604|add|a|10\n605|add|TMP|0\n606|add|a|90\n607|add|b|10\n608|add|TMP|0\n609|add|b|90\n610|add|a|10\n611|add|TMP|0\n612|add|a|90\n613|add|b|10\n614|add|TMP|90\n615|add|a|10\n616|add|b|90\n617|none\n618|add|TMP|0\n619|none\n620|add|b|10\n621|add|a|90\n622|add|TMP|0\n623|add|a|10\n624|add|b|90\n625|none\n626|add|TMP|0\n627|none\n628|add|b|10\n629|add|a|90\n630|set|b|95\n631|add|TMP|0\n632|add|a|80\n633|add|b|20\n634|add|TMP|80\n635|add|a|20\n636|add|b|80\n637|add|TMP|0\n638|none\n639|add|b|20\n640|add|a|80\n641|none\n642|none\n643|add|TMP|0\n644|add|a|20\n645|add|b|80\n646|add|TMP|0\n647|add|b|20\n648|add|a|80\n649|add|TMP|0\n650|add|a|20\n651|add|b|80\n652|add|TMP|0\n653|none\n654|add|b|20\n655|add|a|80\n656|add|TMP|0\n657|add|a|20\n658|none\n659|none\n660|none\n661|add|b|80\n662|add|TMP|0\n663|add|b|20\n664|add|a|80\n665|add|TMP|0\n666|add|a|20\n667|add|b|80\n668|none\n669|set|b|9\n670|add|TMP|14\n671|add|b|6\n672|none\n673|none\n674|none\n675|add|a|94\n676|add|TMP|6\n677|add|b|94\n678|add|a|6\n679|add|TMP|0\n680|add|a|94\n681|add|b|6\n682|add|TMP|94\n683|add|a|6\n684|add|b|94\n685|add|TMP|0\n686|add|b|6\n687|add|a|94\n688|add|TMP|6\n689|add|b|94\n690|none\n691|add|a|6\n692|add|TMP|94\n693|none\n694|add|b|6\n695|add|a|94\n696|add|TMP|0\n697|add|a|6\n698|none\n699|add|b|94\n700|add|TMP|6\n701|add|a|94\n702|none\n703|add|b|6\n704|none\n705|none\n706|add|TMP|0\n707|add|b|94\n708|none\n709|none\n710|none\n711|add|a|6\n712|none\n713|none\n714|set|a|41\n715|add|TMP|26\n716|none\n717|add|a|68\n718|none\n719|none\n720|none\n721|none\n722|add|b|32\n723|add|TMP|0\n724|add|b|68\n725|add|a|32\n726|add|TMP|0\n727|add|a|68\n728|none\n729|none\n730|add|b|32\n731|add|TMP|68\n732|add|a|32\n733|add|b|68\n734|add|TMP|32\n735|none\n736|add|a|68\n737|add|b|32\n738|none\n739|add|TMP|0\n740|add|b|68\n741|add|a|32\n742|none\n743|add|TMP|68\n744|none\n745|add|b|32\n746|none\n747|add|a|68\n748|add|TMP|32\n749|add|b|68\n750|add|a|32\n751|add|TMP|68\n752|none\n753|add|b|32\n754|add|a|68\n755|add|TMP|32\n756|none\n757|add|b|68\n758|none\n759|none\n760|add|a|32\n761|add|TMP|0\n762|add|a|68\n763|add|b|32\n764|none\n765|none\n766|none\n767|set|a|16\n768|none\n769|none\n770|add|TMP|0\n771|none\n772|add|b|75\n773|add|a|25\n774|add|TMP|75\n775|add|b|25\n776|add|a|75\n777|add|TMP|25\n778|add|b|75\n779|none\n780|add|a|25\n781|none\n782|add|TMP|0\n783|add|a|75\n784|none\n785|add|b|25\n786|add|TMP|75\n787|add|a|25\n788|add|b|75\n789|add|TMP|0\n790|add|b|25\n791|add|a|75\n792|none\n793|add|TMP|0\n794|add|a|25\n795|add|b|75\n796|add|TMP|0\n797|add|b|25\n798|add|a|75\n799|add|TMP|0\n800|add|a|25"
+  }
+ ],
+ "prompt_sha256": "178d2e5d8f65f9175c8666c1035d16f6478511ee38b226474d366ff2cb9ae76e",
+ "prompt_chars": 6361,
+ "prompt_note": "prompt text removed (it quotes StateBench item lines); rebuild it from the item with code/run_api_reg.py"
+}

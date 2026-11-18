@@ -1,0 +1,18 @@
+{
+ "attempts": [
+  {
+   "attempt": 1,
+   "ok": true,
+   "reasons": [],
+   "cost": 0.0002341,
+   "latency_s": 4.7530412673950195,
+   "tin": 666,
+   "tout": 335,
+   "logprob_min": null,
+   "text": "1001|add|TMP|45\n1002|add|g|13\n1003|add|c|87\n1004|add|TMP|32\n1005|add|h|61\n1006|add|e|39\n1007|add|TMP|32\n1008|add|f|58\n1009|add|d|42\n1010|add|TMP|68\n1011|add|e|46\n1012|add|a|54\n1013|add|TMP|81\n1014|add|g|87\n1015|add|c|13\n1016|add|TMP|9\n1017|add|f|33\n1018|add|b|67\n1019|add|TMP|71\n1020|add|h|71\n1021|add|d|29\n1022|add|TMP|85\n1023|add|e|44\n1024|add|b|56\n1025|add|TMP|22\n1026|add|g|64\n1027|add|h|36\n1028|add|TMP|13\n1029|add|c|80\n1030|add|d|20\n1031|add|TMP|42\n1032|add|f|77\n1033|add|a|23"
+  }
+ ],
+ "prompt_sha256": "2bba0a7c85e2430d9eb6c0a53ab8745c1d0655dd8157740aa35a2171987b1ebe",
+ "prompt_chars": 1721,
+ "prompt_note": "prompt text removed (it quotes StateBench item lines); rebuild it from the item with code/run_api_reg.py"
+}

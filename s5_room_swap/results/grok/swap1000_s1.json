@@ -1,0 +1,46 @@
+{
+ "id": "swap1000_s1",
+ "length": 1000,
+ "seed": 1,
+ "model": "grok-4.7-xhigh",
+ "wall_s": 355.3577728330274,
+ "returncode": 0,
+ "usage": {
+  "input_tokens": 24230,
+  "output_tokens": 31077,
+  "cache_read_tokens": 14336
+ },
+ "thinking_tokens": 31050,
+ "attempts": [
+  {
+   "wall_s": 355.3577728330274,
+   "rc": 0,
+   "stderr_tail": ""
+  }
+ ],
+ "event_types": {
+  "system": 1,
+  "user": 1,
+  "thinking": 570,
+  "assistant": 1,
+  "result": 1
+ },
+ "tool_events": [],
+ "answer": "철수: 4\n영희: 2\n민수: 5\n지아: 1\n현우: 3",
+ "truth": [
+  4,
+  2,
+  5,
+  1,
+  3
+ ],
+ "parsed": {
+  "철수": 4,
+  "영희": 2,
+  "민수": 5,
+  "지아": 1,
+  "현우": 3
+ },
+ "people_correct": 5,
+ "exact": true
+}

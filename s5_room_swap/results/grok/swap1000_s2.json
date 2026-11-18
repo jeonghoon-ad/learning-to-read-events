@@ -1,0 +1,51 @@
+{
+ "id": "swap1000_s2",
+ "length": 1000,
+ "seed": 2,
+ "model": "grok-4.7-xhigh",
+ "wall_s": 474.9828392919735,
+ "returncode": 0,
+ "usage": {
+  "input_tokens": 90,
+  "output_tokens": 44503,
+  "cache_read_tokens": 38528
+ },
+ "thinking_tokens": 44466,
+ "attempts": [
+  {
+   "wall_s": 48.29795762500726,
+   "rc": 1,
+   "stderr_tail": "NonRetriableError: Agent Looping Detected The model got stuck in a repeating response pattern, so this turn was stopped. Please try again with a different model or start a new conversation. If the problem persists, please contact support.\n"
+  },
+  {
+   "wall_s": 474.9828392919735,
+   "rc": 0,
+   "stderr_tail": ""
+  }
+ ],
+ "event_types": {
+  "system": 1,
+  "user": 1,
+  "thinking": 652,
+  "assistant": 1,
+  "result": 1
+ },
+ "tool_events": [],
+ "answer": "철수: 4호실\n영희: 3호실\n민수: 1호실\n지아: 5호실\n현우: 2호실",
+ "truth": [
+  5,
+  3,
+  4,
+  1,
+  2
+ ],
+ "parsed": {
+  "철수": 4,
+  "영희": 3,
+  "민수": 1,
+  "지아": 5,
+  "현우": 2
+ },
+ "people_correct": 2,
+ "exact": false
+}

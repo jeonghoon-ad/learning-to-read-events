@@ -1,0 +1,89 @@
+{
+ "gpt-6.1-terra": {
+  "arms_present": [
+   "ALONE",
+   "REG"
+  ],
+  "scores": {
+   "ALONE": {
+    "overall": {
+     "n": 150,
+     "accuracy": 0.9466666666666667,
+     "bootstrap_95_ci": [
+      0.9066666666666666,
+      0.98
+     ]
+    },
+    "knowledge-update": {
+     "n": 78,
+     "accuracy": 0.9743589743589743,
+     "bootstrap_95_ci": [
+      0.9358974358974359,
+      1.0
+     ]
+    },
+    "temporal-reasoning": {
+     "n": 72,
+     "accuracy": 0.9166666666666666,
+     "bootstrap_95_ci": [
+      0.8472222222222222,
+      0.9722222222222222
+     ]
+    }
+   },
+   "REG": {
+    "overall": {
+     "n": 150,
+     "accuracy": 0.86,
+     "bootstrap_95_ci": [
+      0.8,
+      0.9133333333333333
+     ]
+    },
+    "knowledge-update": {
+     "n": 78,
+     "accuracy": 0.8846153846153846,
+     "bootstrap_95_ci": [
+      0.8076923076923077,
+      0.9487179487179487
+     ]
+    },
+    "temporal-reasoning": {
+     "n": 72,
+     "accuracy": 0.8333333333333334,
+     "bootstrap_95_ci": [
+      0.75,
+      0.9166666666666666
+     ]
+    }
+   },
+   "paired_alone_minus_reg": {
+    "overall": {
+     "n": 150,
+     "difference": 0.08666666666666667,
+     "bootstrap_95_ci": [
+      0.04,
+      0.14
+     ]
+    },
+    "knowledge-update": {
+     "n": 78,
+     "difference": 0.08974358974358974,
+     "bootstrap_95_ci": [
+      0.02564102564102564,
+      0.16666666666666666
+     ]
+    },
+    "temporal-reasoning": {
+     "n": 72,
+     "difference": 0.08333333333333333,
+     "bootstrap_95_ci": [
+      0.013888888888888888,
+      0.1527777777777778
+     ]
+    }
+   }
+  },
+  "actual_cost_usd": 53.58965125
+ }
+}

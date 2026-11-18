@@ -1,0 +1,18 @@
+{
+ "attempts": [
+  {
+   "attempt": 1,
+   "ok": true,
+   "reasons": [],
+   "cost": 0.011066000000000001,
+   "latency_s": 6.637589931488037,
+   "tin": 878,
+   "tout": 931,
+   "logprob_min": null,
+   "text": "4001|copy|a|d\n4002|copy|d|TMP\n4003|copy|TMP|b\n4004|copy|b|c\n4005|copy|c|TMP\n4006|copy|TMP|a\n4007|copy|a|d\n4008|copy|d|TMP\n4009|copy|TMP|d\n4010|copy|d|a\n4011|copy|a|TMP\n4012|copy|TMP|b\n4013|copy|b|c\n4014|copy|c|TMP\n4015|copy|TMP|d\n4016|copy|d|b\n4017|copy|b|TMP\n4018|copy|TMP|c\n4019|copy|c|a\n4020|copy|a|TMP\n4021|copy|TMP|b\n4022|copy|b|d\n4023|copy|d|TMP\n4024|copy|TMP|c\n4025|copy|c|a\n4026|copy|a|TMP\n4027|copy|TMP|b\n4028|copy|b|a\n4029|copy|a|TMP\n4030|copy|TMP|d\n4031|copy|d|c\n4032|copy|c|TMP\n4033|copy|TMP|d\n4034|copy|d|c\n4035|copy|c|TMP\n4036|copy|TMP|a\n4037|copy|a|b\n4038|copy|b|TMP\n4039|copy|TMP|c\n4040|copy|c|a\n4041|copy|a|TMP\n4042|copy|TMP|d\n4043|copy|d|b\n4044|copy|b|TMP\n4045|copy|TMP|a\n4046|copy|a|d\n4047|copy|d|TMP\n4048|copy|TMP|b\n4049|copy|b|c\n4050|copy|c|TMP\n4051|copy|TMP|a\n4052|copy|a|c\n4053|copy|c|TMP\n4054|copy|TMP|b\n4055|copy|b|d\n4056|copy|d|TMP\n4057|copy|TMP|b\n4058|copy|b|a\n4059|copy|a|TMP\n4060|copy|TMP|d\n4061|copy|d|c\n4062|copy|c|TMP\n4063|copy|TMP|c\n4064|copy|c|a\n4065|copy|a|TMP\n4066|copy|TMP|d\n4067|copy|d|b\n4068|copy|b|TMP\n4069|copy|TMP|d\n4070|copy|d|b\n4071|copy|b|TMP\n4072|copy|TMP|c\n4073|copy|c|a\n4074|copy|a|TMP\n4075|copy|TMP|a\n4076|copy|a|d\n4077|copy|d|TMP\n4078|copy|TMP|c\n4079|copy|c|b\n4080|copy|b|TMP\n4081|copy|TMP|b\n4082|copy|b|c\n4083|copy|c|TMP\n4084|copy|TMP|d\n4085|copy|d|a\n4086|copy|a|TMP\n4087|copy|TMP|d\n4088|copy|d|a\n4089|copy|a|TMP\n4090|copy|TMP|c\n4091|copy|c|b\n4092|copy|b|TMP\n4093|copy|TMP|a\n4094|copy|a|b\n4095|copy|b|TMP\n4096|copy|TMP|c\n4097|copy|c|d\n4098|copy|d|TMP\n4099|copy|TMP|d\n4100|copy|d|b\n4101|copy|b|TMP"
+  }
+ ],
+ "prompt_sha256": "ddd848a22b267c93703135f22f980c30bb56b35022dae8fdcdcb6c408d9c9861",
+ "prompt_chars": 2269,
+ "prompt_note": "prompt text removed (it quotes StateBench item lines); rebuild it from the item with code/run_api_reg.py"
+}

@@ -1,0 +1,18 @@
+{
+ "attempts": [
+  {
+   "attempt": 1,
+   "ok": true,
+   "reasons": [],
+   "cost": 0.02748,
+   "latency_s": 8.357959985733032,
+   "tin": 1255,
+   "tout": 1123,
+   "logprob_min": null,
+   "text": "4001|copy|TMP|a\n4002|copy|a|b\n4003|copy|b|TMP\n4004|copy|TMP|a\n4005|copy|a|b\n4006|copy|b|TMP\n4007|copy|TMP|b\n4008|copy|b|a\n4009|copy|a|TMP\n4010|copy|TMP|a\n4011|copy|a|b\n4012|copy|b|TMP\n4013|copy|TMP|a\n4014|copy|a|b\n4015|copy|b|TMP\n4016|copy|TMP|b\n4017|copy|b|a\n4018|copy|a|TMP\n4019|copy|TMP|b\n4020|copy|b|a\n4021|copy|a|TMP\n4022|copy|TMP|b\n4023|copy|b|a\n4024|copy|a|TMP\n4025|copy|TMP|b\n4026|copy|b|a\n4027|copy|a|TMP\n4028|copy|TMP|a\n4029|copy|a|b\n4030|copy|b|TMP\n4031|copy|TMP|a\n4032|copy|a|b\n4033|copy|b|TMP\n4034|copy|TMP|b\n4035|copy|b|a\n4036|copy|a|TMP\n4037|copy|TMP|a\n4038|copy|a|b\n4039|copy|b|TMP\n4040|copy|TMP|a\n4041|copy|a|b\n4042|copy|b|TMP\n4043|copy|TMP|b\n4044|copy|b|a\n4045|copy|a|TMP\n4046|copy|TMP|b\n4047|copy|b|a\n4048|copy|a|TMP\n4049|copy|TMP|a\n4050|copy|a|b\n4051|copy|b|TMP\n4052|copy|TMP|a\n4053|copy|a|b\n4054|copy|b|TMP\n4055|copy|TMP|a\n4056|copy|a|b\n4057|copy|b|TMP\n4058|copy|TMP|b\n4059|copy|b|a\n4060|copy|a|TMP\n4061|copy|TMP|b\n4062|copy|b|a\n4063|copy|a|TMP\n4064|copy|TMP|b\n4065|copy|b|a\n4066|copy|a|TMP\n4067|copy|TMP|a\n4068|copy|a|b\n4069|copy|b|TMP\n4070|copy|TMP|b\n4071|copy|b|a\n4072|copy|a|TMP\n4073|copy|TMP|b\n4074|copy|b|a\n4075|copy|a|TMP\n4076|copy|TMP|a\n4077|copy|a|b\n4078|copy|b|TMP\n4079|copy|TMP|a\n4080|copy|a|b\n4081|copy|b|TMP\n4082|copy|TMP|b\n4083|copy|b|a\n4084|copy|a|TMP\n4085|copy|TMP|a\n4086|copy|a|b\n4087|copy|b|TMP\n4088|copy|TMP|b\n4089|copy|b|a\n4090|copy|a|TMP\n4091|copy|TMP|a\n4092|copy|a|b\n4093|copy|b|TMP\n4094|copy|TMP|b\n4095|copy|b|a\n4096|copy|a|TMP\n4097|copy|TMP|b\n4098|copy|b|a\n4099|copy|a|TMP"
+  }
+ ],
+ "prompt_sha256": "7b83fb6e22094a12f04bb3e34b0b5ff87cc5b3e11d3fb1218af9ac95e13e60c7",
+ "prompt_chars": 2239,
+ "prompt_note": "prompt text removed (it quotes StateBench item lines); rebuild it from the item with code/run_api_reg.py"
+}

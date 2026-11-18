@@ -1,0 +1,871 @@
+{
+  "sets": {
+    "all_implicit": {
+      "n": 500,
+      "accuracy": {
+        "sidecar_exact": {
+          "n": 500,
+          "missing": 0,
+          "unparseable": 0,
+          "accuracy": 0.018
+        },
+        "sidecar_flagged": {
+          "n": 500,
+          "missing": 0,
+          "unparseable": 0,
+          "accuracy": 0.356
+        },
+        "prior_k": {
+          "n": 500,
+          "missing": 0,
+          "unparseable": 0,
+          "accuracy": 0.37
+        },
+        "prior_0": {
+          "n": 500,
+          "missing": 0,
+          "unparseable": 0,
+          "accuracy": 0.422
+        },
+        "parser": {
+          "n": 500,
+          "missing": 0,
+          "unparseable": 0,
+          "accuracy": 0.046
+        },
+        "prior_k_t": {
+          "n": 500,
+          "missing": 0,
+          "unparseable": 0,
+          "accuracy": 0.392
+        },
+        "prior_0_t": {
+          "n": 500,
+          "missing": 0,
+          "unparseable": 0,
+          "accuracy": 0.61
+        },
+        "reader": {
+          "n": 500,
+          "missing": 0,
+          "unparseable": 2,
+          "accuracy": 0.688
+        },
+        "twin": {
+          "n": 500,
+          "missing": 0,
+          "unparseable": 4,
+          "accuracy": 0.568
+        },
+        "nocomment_infer": {
+          "n": 500,
+          "missing": 0,
+          "unparseable": 3,
+          "accuracy": 0.514
+        },
+        "luna": {
+          "n": 500,
+          "missing": 0,
+          "unparseable": 0,
+          "accuracy": 0.084
+        },
+        "terra": {
+          "n": 500,
+          "missing": 0,
+          "unparseable": 0,
+          "accuracy": 0.096
+        },
+        "haiku": {
+          "n": 162,
+          "missing": 338,
+          "unparseable": 35,
+          "accuracy": 0.1111111111111111
+        }
+      },
+      "paired": {
+        "reader - prior_k": {
+          "difference": 0.318,
+          "ci95": [
+            0.266,
+            0.36926147704590817
+          ],
+          "items": 500,
+          "projects": 167,
+          "resamples": 10000,
+          "seed": 20261117
+        },
+        "reader - sidecar_flagged": {
+          "difference": 0.332,
+          "ci95": [
+            0.281437125748503,
+            0.38276553106212424
+          ],
+          "items": 500,
+          "projects": 167,
+          "resamples": 10000,
+          "seed": 20261117
+        },
+        "reader - prior_0": {
+          "difference": 0.266,
+          "ci95": [
+            0.20556958372411804,
+            0.326
+          ],
+          "items": 500,
+          "projects": 167,
+          "resamples": 10000,
+          "seed": 20261117
+        },
+        "reader - twin": {
+          "difference": 0.12,
+          "ci95": [
+            0.07214428857715431,
+            0.166
+          ],
+          "items": 500,
+          "projects": 167,
+          "resamples": 10000,
+          "seed": 20261117
+        },
+        "reader - prior_k_t": {
+          "difference": 0.296,
+          "ci95": [
+            0.2435129740518962,
+            0.3473053892215569
+          ],
+          "items": 500,
+          "projects": 167,
+          "resamples": 10000,
+          "seed": 20261117
+        },
+        "reader - prior_0_t": {
+          "difference": 0.078,
+          "ci95": [
+            0.028,
+            0.12625250501002003
+          ],
+          "items": 500,
+          "projects": 167,
+          "resamples": 10000,
+          "seed": 20261117
+        },
+        "reader - nocomment_infer": {
+          "difference": 0.174,
+          "ci95": [
+            0.12574850299401197,
+            0.22355289421157684
+          ],
+          "items": 500,
+          "projects": 167,
+          "resamples": 10000,
+          "seed": 20261117
+        },
+        "reader - terra": {
+          "difference": 0.592,
+          "ci95": [
+            0.54,
+            0.642
+          ],
+          "items": 500,
+          "projects": 167,
+          "resamples": 10000,
+          "seed": 20261117
+        }
+      }
+    },
+    "primary": {
+      "n": 27,
+      "accuracy": {
+        "sidecar_exact": {
+          "n": 27,
+          "missing": 0,
+          "unparseable": 0,
+          "accuracy": 0.0
+        },
+        "sidecar_flagged": {
+          "n": 27,
+          "missing": 0,
+          "unparseable": 0,
+          "accuracy": 0.14814814814814814
+        },
+        "prior_k": {
+          "n": 27,
+          "missing": 0,
+          "unparseable": 0,
+          "accuracy": 0.1111111111111111
+        },
+        "prior_0": {
+          "n": 27,
+          "missing": 0,
+          "unparseable": 0,
+          "accuracy": 0.2962962962962963
+        },
+        "parser": {
+          "n": 27,
+          "missing": 0,
+          "unparseable": 0,
+          "accuracy": 0.07407407407407407
+        },
+        "prior_k_t": {
+          "n": 27,
+          "missing": 0,
+          "unparseable": 0,
+          "accuracy": 0.14814814814814814
+        },
+        "prior_0_t": {
+          "n": 27,
+          "missing": 0,
+          "unparseable": 0,
+          "accuracy": 0.2962962962962963
+        },
+        "reader": {
+          "n": 27,
+          "missing": 0,
+          "unparseable": 0,
+          "accuracy": 0.4444444444444444
+        },
+        "twin": {
+          "n": 27,
+          "missing": 0,
+          "unparseable": 1,
+          "accuracy": 0.2962962962962963
+        },
+        "nocomment_infer": {
+          "n": 27,
+          "missing": 0,
+          "unparseable": 0,
+          "accuracy": 0.3333333333333333
+        },
+        "luna": {
+          "n": 27,
+          "missing": 0,
+          "unparseable": 0,
+          "accuracy": 0.18518518518518517
+        },
+        "terra": {
+          "n": 27,
+          "missing": 0,
+          "unparseable": 0,
+          "accuracy": 0.3333333333333333
+        },
+        "haiku": {
+          "n": 9,
+          "missing": 18,
+          "unparseable": 1,
+          "accuracy": 0.2222222222222222
+        }
+      },
+      "paired": {
+        "reader - prior_k": {
+          "difference": 0.3333333333333333,
+          "ci95": [
+            0.08,
+            0.56
+          ],
+          "items": 27,
+          "projects": 24,
+          "resamples": 10000,
+          "seed": 20261117
+        },
+        "reader - sidecar_flagged": {
+          "difference": 0.2962962962962963,
+          "ci95": [
+            0.08,
+            0.5
+          ],
+          "items": 27,
+          "projects": 24,
+          "resamples": 10000,
+          "seed": 20261117
+        },
+        "reader - prior_0": {
+          "difference": 0.14814814814814814,
+          "ci95": [
+            -0.1111111111111111,
+            0.39285714285714285
+          ],
+          "items": 27,
+          "projects": 24,
+          "resamples": 10000,
+          "seed": 20261117
+        },
+        "reader - twin": {
+          "difference": 0.14814814814814814,
+          "ci95": [
+            -0.15384615384615385,
+            0.42857142857142855
+          ],
+          "items": 27,
+          "projects": 24,
+          "resamples": 10000,
+          "seed": 20261117
+        },
+        "reader - prior_k_t": {
+          "difference": 0.2962962962962963,
+          "ci95": [
+            0.037037037037037035,
+            0.5384615384615384
+          ],
+          "items": 27,
+          "projects": 24,
+          "resamples": 10000,
+          "seed": 20261117
+        },
+        "reader - prior_0_t": {
+          "difference": 0.14814814814814814,
+          "ci95": [
+            -0.16666666666666666,
+            0.4482758620689655
+          ],
+          "items": 27,
+          "projects": 24,
+          "resamples": 10000,
+          "seed": 20261117
+        },
+        "reader - nocomment_infer": {
+          "difference": 0.1111111111111111,
+          "ci95": [
+            -0.18518518518518517,
+            0.4
+          ],
+          "items": 27,
+          "projects": 24,
+          "resamples": 10000,
+          "seed": 20261117
+        },
+        "reader - terra": {
+          "difference": 0.1111111111111111,
+          "ci95": [
+            -0.1111111111111111,
+            0.32142857142857145
+          ],
+          "items": 27,
+          "projects": 24,
+          "resamples": 10000,
+          "seed": 20261117
+        }
+      }
+    },
+    "j1_yes": {
+      "n": 58,
+      "accuracy": {
+        "sidecar_exact": {
+          "n": 58,
+          "missing": 0,
+          "unparseable": 0,
+          "accuracy": 0.017241379310344827
+        },
+        "sidecar_flagged": {
+          "n": 58,
+          "missing": 0,
+          "unparseable": 0,
+          "accuracy": 0.41379310344827586
+        },
+        "prior_k": {
+          "n": 58,
+          "missing": 0,
+          "unparseable": 0,
+          "accuracy": 0.41379310344827586
+        },
+        "prior_0": {
+          "n": 58,
+          "missing": 0,
+          "unparseable": 0,
+          "accuracy": 0.603448275862069
+        },
+        "parser": {
+          "n": 58,
+          "missing": 0,
+          "unparseable": 0,
+          "accuracy": 0.06896551724137931
+        },
+        "prior_k_t": {
+          "n": 58,
+          "missing": 0,
+          "unparseable": 0,
+          "accuracy": 0.46551724137931033
+        },
+        "prior_0_t": {
+          "n": 58,
+          "missing": 0,
+          "unparseable": 0,
+          "accuracy": 0.603448275862069
+        },
+        "reader": {
+          "n": 58,
+          "missing": 0,
+          "unparseable": 0,
+          "accuracy": 0.6896551724137931
+        },
+        "twin": {
+          "n": 58,
+          "missing": 0,
+          "unparseable": 1,
+          "accuracy": 0.6379310344827587
+        },
+        "nocomment_infer": {
+          "n": 58,
+          "missing": 0,
+          "unparseable": 0,
+          "accuracy": 0.6206896551724138
+        },
+        "luna": {
+          "n": 58,
+          "missing": 0,
+          "unparseable": 0,
+          "accuracy": 0.1724137931034483
+        },
+        "terra": {
+          "n": 58,
+          "missing": 0,
+          "unparseable": 0,
+          "accuracy": 0.1724137931034483
+        },
+        "haiku": {
+          "n": 20,
+          "missing": 38,
+          "unparseable": 7,
+          "accuracy": 0.2
+        }
+      },
+      "paired": {
+        "reader - prior_k": {
+          "difference": 0.27586206896551724,
+          "ci95": [
+            0.14285714285714285,
+            0.4067796610169492
+          ],
+          "items": 58,
+          "projects": 47,
+          "resamples": 10000,
+          "seed": 20261117
+        },
+        "reader - sidecar_flagged": {
+          "difference": 0.27586206896551724,
+          "ci95": [
+            0.14510368663594475,
+            0.4107142857142857
+          ],
+          "items": 58,
+          "projects": 47,
+          "resamples": 10000,
+          "seed": 20261117
+        },
+        "reader - prior_0": {
+          "difference": 0.08620689655172414,
+          "ci95": [
+            -0.05084745762711865,
+            0.21875
+          ],
+          "items": 58,
+          "projects": 47,
+          "resamples": 10000,
+          "seed": 20261117
+        },
+        "reader - twin": {
+          "difference": 0.05172413793103448,
+          "ci95": [
+            -0.09375,
+            0.19642857142857142
+          ],
+          "items": 58,
+          "projects": 47,
+          "resamples": 10000,
+          "seed": 20261117
+        },
+        "reader - prior_k_t": {
+          "difference": 0.22413793103448276,
+          "ci95": [
+            0.08617036820572768,
+            0.36065573770491804
+          ],
+          "items": 58,
+          "projects": 47,
+          "resamples": 10000,
+          "seed": 20261117
+        },
+        "reader - prior_0_t": {
+          "difference": 0.08620689655172414,
+          "ci95": [
+            -0.07938095238095236,
+            0.25
+          ],
+          "items": 58,
+          "projects": 47,
+          "resamples": 10000,
+          "seed": 20261117
+        },
+        "reader - nocomment_infer": {
+          "difference": 0.06896551724137931,
+          "ci95": [
+            -0.08928571428571429,
+            0.22413793103448276
+          ],
+          "items": 58,
+          "projects": 47,
+          "resamples": 10000,
+          "seed": 20261117
+        },
+        "reader - terra": {
+          "difference": 0.5172413793103449,
+          "ci95": [
+            0.359375,
+            0.6724137931034483
+          ],
+          "items": 58,
+          "projects": 47,
+          "resamples": 10000,
+          "seed": 20261117
+        }
+      }
+    },
+    "j2_yes": {
+      "n": 46,
+      "accuracy": {
+        "sidecar_exact": {
+          "n": 46,
+          "missing": 0,
+          "unparseable": 0,
+          "accuracy": 0.021739130434782608
+        },
+        "sidecar_flagged": {
+          "n": 46,
+          "missing": 0,
+          "unparseable": 0,
+          "accuracy": 0.2391304347826087
+        },
+        "prior_k": {
+          "n": 46,
+          "missing": 0,
+          "unparseable": 0,
+          "accuracy": 0.2826086956521739
+        },
+        "prior_0": {
+          "n": 46,
+          "missing": 0,
+          "unparseable": 0,
+          "accuracy": 0.3695652173913043
+        },
+        "parser": {
+          "n": 46,
+          "missing": 0,
+          "unparseable": 0,
+          "accuracy": 0.06521739130434782
+        },
+        "prior_k_t": {
+          "n": 46,
+          "missing": 0,
+          "unparseable": 0,
+          "accuracy": 0.2826086956521739
+        },
+        "prior_0_t": {
+          "n": 46,
+          "missing": 0,
+          "unparseable": 0,
+          "accuracy": 0.5
+        },
+        "reader": {
+          "n": 46,
+          "missing": 0,
+          "unparseable": 0,
+          "accuracy": 0.5652173913043478
+        },
+        "twin": {
+          "n": 46,
+          "missing": 0,
+          "unparseable": 2,
+          "accuracy": 0.4782608695652174
+        },
+        "nocomment_infer": {
+          "n": 46,
+          "missing": 0,
+          "unparseable": 1,
+          "accuracy": 0.41304347826086957
+        },
+        "luna": {
+          "n": 46,
+          "missing": 0,
+          "unparseable": 0,
+          "accuracy": 0.2391304347826087
+        },
+        "terra": {
+          "n": 46,
+          "missing": 0,
+          "unparseable": 0,
+          "accuracy": 0.32608695652173914
+        },
+        "haiku": {
+          "n": 12,
+          "missing": 34,
+          "unparseable": 1,
+          "accuracy": 0.25
+        }
+      },
+      "paired": {
+        "reader - prior_k": {
+          "difference": 0.2826086956521739,
+          "ci95": [
+            0.1111111111111111,
+            0.45652173913043476
+          ],
+          "items": 46,
+          "projects": 41,
+          "resamples": 10000,
+          "seed": 20261117
+        },
+        "reader - sidecar_flagged": {
+          "difference": 0.32608695652173914,
+          "ci95": [
+            0.15555555555555556,
+            0.48890070921985795
+          ],
+          "items": 46,
+          "projects": 41,
+          "resamples": 10000,
+          "seed": 20261117
+        },
+        "reader - prior_0": {
+          "difference": 0.1956521739130435,
+          "ci95": [
+            0.0,
+            0.38636363636363635
+          ],
+          "items": 46,
+          "projects": 41,
+          "resamples": 10000,
+          "seed": 20261117
+        },
+        "reader - twin": {
+          "difference": 0.08695652173913043,
+          "ci95": [
+            -0.13333333333333333,
+            0.29545454545454547
+          ],
+          "items": 46,
+          "projects": 41,
+          "resamples": 10000,
+          "seed": 20261117
+        },
+        "reader - prior_k_t": {
+          "difference": 0.2826086956521739,
+          "ci95": [
+            0.10869565217391304,
+            0.45652173913043476
+          ],
+          "items": 46,
+          "projects": 41,
+          "resamples": 10000,
+          "seed": 20261117
+        },
+        "reader - prior_0_t": {
+          "difference": 0.06521739130434782,
+          "ci95": [
+            -0.13953488372093023,
+            0.26198979591836613
+          ],
+          "items": 46,
+          "projects": 41,
+          "resamples": 10000,
+          "seed": 20261117
+        },
+        "reader - nocomment_infer": {
+          "difference": 0.15217391304347827,
+          "ci95": [
+            -0.06822145877378431,
+            0.3673469387755102
+          ],
+          "items": 46,
+          "projects": 41,
+          "resamples": 10000,
+          "seed": 20261117
+        },
+        "reader - terra": {
+          "difference": 0.2391304347826087,
+          "ci95": [
+            0.08333333333333333,
+            0.4
+          ],
+          "items": 46,
+          "projects": 41,
+          "resamples": 10000,
+          "seed": 20261117
+        }
+      }
+    },
+    "explicit": {
+      "n": 100,
+      "accuracy": {
+        "sidecar_exact": {
+          "n": 100,
+          "missing": 0,
+          "unparseable": 0,
+          "accuracy": 0.0
+        },
+        "sidecar_flagged": {
+          "n": 100,
+          "missing": 0,
+          "unparseable": 0,
+          "accuracy": 0.53
+        },
+        "prior_k": {
+          "n": 100,
+          "missing": 0,
+          "unparseable": 0,
+          "accuracy": 0.71
+        },
+        "prior_0": {
+          "n": 100,
+          "missing": 0,
+          "unparseable": 0,
+          "accuracy": 0.6
+        },
+        "parser": {
+          "n": 100,
+          "missing": 0,
+          "unparseable": 0,
+          "accuracy": 0.85
+        },
+        "prior_k_t": {
+          "n": 100,
+          "missing": 0,
+          "unparseable": 0,
+          "accuracy": 0.86
+        },
+        "prior_0_t": {
+          "n": 100,
+          "missing": 0,
+          "unparseable": 0,
+          "accuracy": 0.54
+        },
+        "reader": {
+          "n": 100,
+          "missing": 0,
+          "unparseable": 0,
+          "accuracy": 0.92
+        },
+        "twin": {
+          "n": 100,
+          "missing": 0,
+          "unparseable": 0,
+          "accuracy": 0.63
+        },
+        "nocomment_infer": {
+          "n": 100,
+          "missing": 0,
+          "unparseable": 0,
+          "accuracy": 0.5
+        },
+        "luna": {
+          "n": 100,
+          "missing": 0,
+          "unparseable": 0,
+          "accuracy": 0.71
+        },
+        "terra": {
+          "n": 100,
+          "missing": 0,
+          "unparseable": 0,
+          "accuracy": 0.73
+        },
+        "haiku": {
+          "n": 38,
+          "missing": 62,
+          "unparseable": 7,
+          "accuracy": 0.7105263157894737
+        }
+      },
+      "paired": {
+        "reader - prior_k": {
+          "difference": 0.21,
+          "ci95": [
+            0.11,
+            0.31
+          ],
+          "items": 100,
+          "projects": 100,
+          "resamples": 10000,
+          "seed": 20261117
+        },
+        "reader - sidecar_flagged": {
+          "difference": 0.39,
+          "ci95": [
+            0.29,
+            0.49
+          ],
+          "items": 100,
+          "projects": 100,
+          "resamples": 10000,
+          "seed": 20261117
+        },
+        "reader - prior_0": {
+          "difference": 0.32,
+          "ci95": [
+            0.21,
+            0.43
+          ],
+          "items": 100,
+          "projects": 100,
+          "resamples": 10000,
+          "seed": 20261117
+        },
+        "reader - twin": {
+          "difference": 0.29,
+          "ci95": [
+            0.2,
+            0.38
+          ],
+          "items": 100,
+          "projects": 100,
+          "resamples": 10000,
+          "seed": 20261117
+        },
+        "reader - prior_k_t": {
+          "difference": 0.06,
+          "ci95": [
+            -0.01,
+            0.13
+          ],
+          "items": 100,
+          "projects": 100,
+          "resamples": 10000,
+          "seed": 20261117
+        },
+        "reader - prior_0_t": {
+          "difference": 0.38,
+          "ci95": [
+            0.28,
+            0.48
+          ],
+          "items": 100,
+          "projects": 100,
+          "resamples": 10000,
+          "seed": 20261117
+        },
+        "reader - nocomment_infer": {
+          "difference": 0.42,
+          "ci95": [
+            0.32,
+            0.52
+          ],
+          "items": 100,
+          "projects": 100,
+          "resamples": 10000,
+          "seed": 20261117
+        },
+        "reader - terra": {
+          "difference": 0.19,
+          "ci95": [
+            0.1,
+            0.29
+          ],
+          "items": 100,
+          "projects": 100,
+          "resamples": 10000,
+          "seed": 20261117
+        }
+      }
+    }
+  },
+  "bar_met": true,
+  "reading_label": "reading shown"
+}

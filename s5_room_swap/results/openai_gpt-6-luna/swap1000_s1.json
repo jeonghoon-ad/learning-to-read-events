@@ -1,0 +1,34 @@
+{
+ "id": "swap1000_s1",
+ "length": 1000,
+ "seed": 1,
+ "model": "gpt-6-luna",
+ "effort": "high",
+ "wall_s": 120.2851120000123,
+ "status": "completed",
+ "incomplete": null,
+ "usage": {
+  "input_tokens": 18722,
+  "output_tokens": 16914,
+  "reasoning_tokens": 16869
+ },
+ "thinking_tokens": 16869,
+ "cost_usd": 0.010329199999999998,
+ "answer": "철수: 5호실\n영희: 2호실\n민수: 3호실\n지아: 1호실\n현우: 4호실",
+ "truth": [
+  4,
+  2,
+  5,
+  1,
+  3
+ ],
+ "parsed": {
+  "철수": 5,
+  "영희": 2,
+  "민수": 3,
+  "지아": 1,
+  "현우": 4
+ },
+ "people_correct": 2,
+ "exact": false
+}

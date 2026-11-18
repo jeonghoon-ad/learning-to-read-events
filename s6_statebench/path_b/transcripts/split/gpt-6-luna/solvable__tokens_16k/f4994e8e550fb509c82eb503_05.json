@@ -1,0 +1,18 @@
+{
+ "attempts": [
+  {
+   "attempt": 1,
+   "ok": true,
+   "reasons": [],
+   "cost": 0.00021959999999999997,
+   "latency_s": 4.186140060424805,
+   "tin": 606,
+   "tout": 318,
+   "logprob_min": null,
+   "text": "1001|add|b|87\n1002|add|c|13\n1003|add|TMP|78\n1004|add|a|9\n1005|add|b|91\n1006|add|TMP|22\n1007|add|c|85\n1008|add|d|15\n1009|add|TMP|78\n1010|add|b|9\n1011|add|a|91\n1012|add|TMP|7\n1013|add|c|15\n1014|add|d|85\n1015|add|TMP|2\n1016|add|b|91\n1017|add|a|9\n1018|add|TMP|98\n1019|add|d|15\n1020|add|c|85\n1021|add|TMP|0\n1022|add|c|15\n1023|add|d|85\n1024|add|TMP|2\n1025|add|a|91\n1026|add|b|9\n1027|add|TMP|13\n1028|add|c|87\n1029|add|b|13"
+  }
+ ],
+ "prompt_sha256": "4aace45ba8c9909ca040c07887f82a5f02947a5748234ce274ed468490d1d79b",
+ "prompt_chars": 1590,
+ "prompt_note": "prompt text removed (it quotes StateBench item lines); rebuild it from the item with code/run_api_reg.py"
+}

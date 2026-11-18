@@ -1,0 +1,18 @@
+{
+ "attempts": [
+  {
+   "attempt": 1,
+   "ok": true,
+   "reasons": [],
+   "cost": 0.0003048,
+   "latency_s": 5.930136680603027,
+   "tin": 528,
+   "tout": 504,
+   "logprob_min": null,
+   "text": "2001|copy|TMP|a\n2002|copy|a|b\n2003|copy|b|TMP\n2004|copy|TMP|b\n2005|copy|b|a\n2006|copy|a|TMP\n2007|copy|TMP|a\n2008|copy|a|b\n2009|copy|b|TMP\n2010|copy|TMP|a\n2011|copy|a|b\n2012|copy|b|TMP\n2013|copy|TMP|a\n2014|copy|a|b\n2015|copy|b|TMP\n2016|copy|TMP|a\n2017|copy|a|b\n2018|copy|b|TMP\n2019|copy|TMP|b\n2020|copy|b|a\n2021|copy|a|TMP\n2022|copy|TMP|b\n2023|copy|b|a\n2024|copy|a|TMP\n2025|copy|TMP|a\n2026|copy|a|b\n2027|copy|b|TMP\n2028|copy|TMP|a\n2029|copy|a|b\n2030|copy|b|TMP\n2031|copy|TMP|a\n2032|copy|a|b\n2033|copy|b|TMP\n2034|copy|TMP|a\n2035|copy|a|b\n2036|copy|b|TMP\n2037|copy|TMP|b\n2038|copy|b|a\n2039|copy|a|TMP\n2040|copy|TMP|b\n2041|copy|b|a\n2042|copy|a|TMP\n2043|copy|TMP|b\n2044|copy|b|a\n2045|copy|a|TMP\n2046|copy|TMP|a\n2047|copy|a|b\n2048|copy|b|TMP\n2049|copy|TMP|a\n2050|copy|a|b\n2051|copy|b|TMP"
+  }
+ ],
+ "prompt_sha256": "6853caa9098f6d05a5336cee3ae369da1c8a9a59454c399f4b3e2b9b17e25b81",
+ "prompt_chars": 1503,
+ "prompt_note": "prompt text removed (it quotes StateBench item lines); rebuild it from the item with code/run_api_reg.py"
+}

@@ -1,0 +1,45 @@
+{
+ "frozen_identity": {
+  "host": "Qwen/Qwen3.5-0.8B-Base",
+  "revision": "dc7cdfe2ee4154fa7e30f5b51ca41bfa40174e68",
+  "selector_sha256": "7c7b4b52095fb2d20690e925527c5ebb3e99532ac8f3f0e9c4f5f5326e0a5d19",
+  "layer": 9,
+  "boot_events": 3,
+  "tokens_per_full_window": 262140,
+  "real_events_per_full_window": 43687,
+  "weights_dtype": "bf16",
+  "tf32": false,
+  "training": "NONE"
+ },
+ "certification_label": "fresh_preselected",
+ "control_labels": [
+  "archived_min_gap",
+  "archived_ordinary",
+  "short_sanity"
+ ],
+ "environment": {
+  "gpu": "NVIDIA GeForce RTX 5090",
+  "cuda": "12.8",
+  "packages": {
+   "torch": "2.7.1+cu128",
+   "transformers": "5.22.1",
+   "flash-linear-attention": "0.6.0",
+   "scipy": "1.17.1"
+  },
+  "nvidia_smi": "NVIDIA GeForce RTX 5090, 580.178.04, 32607 MiB"
+ },
+ "windows_scored": 476,
+ "elapsed_seconds_all_windows": 3246.947883729823,
+ "fresh_window_summary": {
+  "N": 473,
+  "failed_windows": 1,
+  "selector_errors": 1,
+  "real_events": 20663951,
+  "one_sided_95pct_cp_lower_bound": 0.9900102925257753,
+  "independent_unit": "one seeded complete-window forward pass with use_cache=False",
+  "frozen_expected_N": 473,
+  "all_planned_windows_completed": true
+ },
+ "started_utc": "2026-11-17T05:54:48.133054+00:00",
+ "finished_utc": "2026-11-17T06:48:55.081112+00:00"
+}

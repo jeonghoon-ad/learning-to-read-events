@@ -1,0 +1,48 @@
+{
+ "id": "swap1000_s2",
+ "length": 1000,
+ "seed": 2,
+ "model": "gemini-4-carbon-high",
+ "wall_s": 2012.2296601670096,
+ "returncode": 0,
+ "usage": {
+  "input_tokens": 48803,
+  "output_tokens": 43,
+  "cache_read_tokens": 0
+ },
+ "thinking_tokens": null,
+ "attempts": [
+  {
+   "wall_s": 2012.2296601670096,
+   "rc": 0,
+   "stderr_tail": ""
+  }
+ ],
+ "event_types": {
+  "system": 1,
+  "user": 1,
+  "thinking": 215,
+  "connection": 4,
+  "retry": 4,
+  "assistant": 1,
+  "result": 1
+ },
+ "tool_events": [],
+ "answer": "철수: 5호실\n영희: 3호실\n민수: 4호실\n지아: 1호실\n현우: 2호실",
+ "truth": [
+  5,
+  3,
+  4,
+  1,
+  2
+ ],
+ "parsed": {
+  "철수": 5,
+  "영희": 3,
+  "민수": 4,
+  "지아": 1,
+  "현우": 2
+ },
+ "people_correct": 5,
+ "exact": true
+}

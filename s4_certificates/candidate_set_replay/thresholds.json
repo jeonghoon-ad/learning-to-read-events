@@ -1,0 +1,80 @@
+{
+  "protocol": "0.01th percentile, linear; boot rows excluded; cset.threshold",
+  "all_selected_dump_sidecars_verified_before_calibration_load": true,
+  "verified_dump_counts": {
+    "nemotron_attempt1": 23,
+    "nemotron_attempt2": 23,
+    "dna_attempt2": 23,
+    "dna_attempt1_p1": 23,
+    "dna_attempt1_p2": 23,
+    "nemotron_attempt1_G": 12,
+    "nemotron_attempt2_G": 12,
+    "nemotron_attempt2_G_old": 12,
+    "dna_attempt2_C": 299,
+    "dna_attempt2_G": 12,
+    "dna_attempt1_P1": 2000,
+    "dna_attempt1_P2": 2000
+  },
+  "thresholds": {
+    "nemotron_attempt1": {
+      "selector_sha256": "d821785194656e6b9e06e0e5a3da494cb30c9dcac4279ce376a7243722360d02",
+      "stage_path": "nemotron4b/results_box60455241/final/out/0/stage_s5_train.json",
+      "stage_sha256": "c6ae5b025ce08169c51fa707120cae6a288284266c87da9d40bb381e48d06df2",
+      "calibration_directory": "nemotron4b/results_box60455241/final/out/0/dumps/calib",
+      "calibration_dumps": 23,
+      "recorded_T": 289.23990441894534,
+      "recomputed_T": 289.23990441894534,
+      "match": true,
+      "used_T": 289.23990441894534,
+      "calibration_source": "verified calibration dumps"
+    },
+    "nemotron_attempt2": {
+      "selector_sha256": "fb058a2c48b169513c1f67e25930731ba006c105a2248060a7a02afacc8bcab1",
+      "stage_path": "nemotron4b/results_box60455241/final_attempt2/out/0/stage_s5_train.json",
+      "stage_sha256": "b605fddc6735d6a47f855b7120ad74c8fd5dc66a9e9d156c0faf7e03cf08281e",
+      "calibration_directory": "nemotron4b/results_box60455241/final_attempt2/out/0/dumps/calib",
+      "calibration_dumps": 23,
+      "recorded_T": 196.60353063964845,
+      "recomputed_T": 196.60353063964845,
+      "match": true,
+      "used_T": 196.60353063964845,
+      "calibration_source": "verified calibration dumps"
+    },
+    "dna_attempt2": {
+      "selector_sha256": "aeb19f232fdd9437830cbfe741e7193605034070a2810e5f7eb1fce9099976c6",
+      "stage_path": "dna4b/results_box60502477/final/x/0/stage_s5_train.json",
+      "stage_sha256": "a9eb7b0ad824eb09f082e818acf1a2d19517b3604efc908711a01e18b23c48ea",
+      "calibration_directory": "dna4b/results_box60502477/final/x/0/dumps/calib",
+      "calibration_dumps": 23,
+      "recorded_T": 464.5972722167969,
+      "recomputed_T": 464.5972722167969,
+      "match": true,
+      "used_T": 464.5972722167969,
+      "calibration_source": "verified calibration dumps"
+    },
+    "dna_attempt1_p1": {
+      "selector_sha256": "7bf3f82763cbe315d4dfc678babc7b422888e6ba8292982fe6ae4c98f835a560",
+      "stage_path": "dna4b/results_box60456146/final/out/0/restart_archive/stage_s5_train.json.1",
+      "stage_sha256": "63ade56da640a55bee0a82439156392cd63376f5017b7d8e58a28e436c7b3ee7",
+      "calibration_directory": "dna4b/results_box60456146/final/out/0/dumps/restart_archive/calib.1",
+      "calibration_dumps": 23,
+      "recorded_T": 196.8415821533203,
+      "recomputed_T": 196.8415821533203,
+      "match": true,
+      "used_T": 196.8415821533203,
+      "calibration_source": "verified calibration dumps"
+    },
+    "dna_attempt1_p2": {
+      "selector_sha256": "3b137717e63772c64cbaf09a80884f6cabb4b871be1a02b4045f216e13bc61a8",
+      "stage_path": "dna4b/results_box60456146/final/out/0/stage_s5_train.json",
+      "stage_sha256": "7a571ac87dad08ac5c32dcaee02148c74fd2d899ebf06fded987a53c22a35612",
+      "calibration_directory": "dna4b/results_box60456146/final/out/0/dumps/calib",
+      "calibration_dumps": 23,
+      "recorded_T": 186.03267059326174,
+      "recomputed_T": 186.03267059326174,
+      "match": true,
+      "used_T": 186.03267059326174,
+      "calibration_source": "verified calibration dumps"
+    }
+  }
+}

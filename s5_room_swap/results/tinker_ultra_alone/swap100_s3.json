@@ -1,0 +1,37 @@
+{
+ "id": "swap100_s3",
+ "length": 100,
+ "seed": 3,
+ "model": "nvidia/NVIDIA-Nemotron-3-Ultra-550B-A55B-BF16:peft:262144",
+ "renderer": "nemotron3_ultra",
+ "arm": "alone",
+ "max_tokens": 32768,
+ "wall_s": 55.800048457982484,
+ "usage": {
+  "input_tokens": 1842,
+  "output_tokens": 13300,
+  "reasoning_tokens": 13269
+ },
+ "thinking_tokens": 13269,
+ "answer_tokens": 29,
+ "cost_usd": 0.0861081,
+ "answer": "철수: 5\n영희: 3\n민수: 1\n지아: 2\n현우: 4",
+ "truth": [
+  5,
+  3,
+  1,
+  2,
+  4
+ ],
+ "finish_reason": "stop",
+ "cap_hit": false,
+ "parsed": {
+  "철수": 5,
+  "영희": 3,
+  "민수": 1,
+  "지아": 2,
+  "현우": 4
+ },
+ "people_correct": 5,
+ "exact": true
+}

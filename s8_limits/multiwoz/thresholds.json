@@ -1,0 +1,19 @@
+{
+ "gpt-6-luna": {
+  "tau_hold": 0.39389415420440727,
+  "tau_flag": 0.7260924750855026,
+  "dev_dialogues": 200,
+  "dev_turns": 1463,
+  "dev_ops": 2079,
+  "dev_ops_with_confidence": 2061
+ },
+ "gpt-6.1-terra": {
+  "tau_hold": 0.5135132405401088,
+  "tau_flag": 0.8530375106635304,
+  "dev_dialogues": 200,
+  "dev_turns": 1463,
+  "dev_ops": 1796,
+  "dev_ops_with_confidence": 1796
+ },
+ "_rule": "tau_hold = 10th percentile, tau_flag = 25th percentile of per-op min token probability, valid ops, dev (val 21-220) REG_OFF"
+}

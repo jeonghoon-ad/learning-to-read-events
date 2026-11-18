@@ -1,0 +1,18 @@
+{
+ "attempts": [
+  {
+   "attempt": 1,
+   "ok": true,
+   "reasons": [],
+   "cost": 0.0004789,
+   "latency_s": 13.0501229763031,
+   "tin": 1454,
+   "tout": 667,
+   "logprob_min": null,
+   "text": "601|add|d|30\n602|add|TMP|0\n603|add|d|39\n604|add|c|61\n605|none\n606|add|TMP|11\n607|add|b|59\n608|none\n609|add|a|41\n610|add|TMP|59\n611|add|b|41\n612|add|a|59\n613|add|TMP|69\n614|add|d|61\n615|none\n616|none\n617|none\n618|add|c|39\n619|add|TMP|0\n620|add|c|31\n621|add|a|69\n622|none\n623|add|TMP|61\n624|none\n625|add|d|11\n626|add|b|89\n627|add|TMP|11\n628|add|d|28\n629|add|a|72\n630|add|TMP|59\n631|add|c|30\n632|add|b|70\n633|none\n634|add|TMP|41\n635|add|a|28\n636|add|d|72\n637|add|TMP|59\n638|add|b|30\n639|add|c|70\n640|add|TMP|69\n641|add|a|61\n642|none\n643|add|b|39\n644|add|TMP|72\n645|none\n646|none\n647|add|d|59\n648|add|c|41\n649|none\n650|add|TMP|59\n651|none\n652|add|d|69\n653|none\n654|add|b|31\n655|add|TMP|41\n656|add|c|89\n657|add|a|11\n658|add|TMP|0\n659|add|a|28\n660|add|d|72\n661|add|TMP|59\n662|none\n663|none\n664|add|b|30\n665|add|c|70\n666|add|TMP|0\n667|add|c|41\n668|add|d|59\n669|add|TMP|30\n670|none\n671|add|b|39\n672|add|a|61\n673|none\n674|add|TMP|39\n675|add|b|61\n676|add|a|39\n677|add|TMP|72\n678|add|c|59\n679|add|d|41\n680|add|TMP|28\n681|none\n682|add|a|31\n683|none\n684|none\n685|add|c|69\n686|none\n687|add|TMP|72\n688|none\n689|add|d|89\n690|add|b|11"
+  }
+ ],
+ "prompt_sha256": "0c2f25a86333518250dfb5a67af5b4dffceba6fb1f5d27a110d9ae8b28b34e8d",
+ "prompt_chars": 3704,
+ "prompt_note": "prompt text removed (it quotes StateBench item lines); rebuild it from the item with code/run_api_reg.py"
+}

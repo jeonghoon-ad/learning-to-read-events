@@ -1,0 +1,54 @@
+{
+ "id": "swap300_s2",
+ "length": 300,
+ "seed": 2,
+ "model": "grok-4.7-xhigh",
+ "wall_s": 58.03743329201825,
+ "returncode": 1,
+ "usage": {
+  "input_tokens": null,
+  "output_tokens": null,
+  "cache_read_tokens": null
+ },
+ "thinking_tokens": null,
+ "attempts": [
+  {
+   "wall_s": 39.02468558301916,
+   "rc": 1,
+   "stderr_tail": "NonRetriableError: Agent Looping Detected The model got stuck in a repeating response pattern, so this turn was stopped. Please try again with a different model or start a new conversation. If the problem persists, please contact support.\n"
+  },
+  {
+   "wall_s": 32.983857374987565,
+   "rc": 1,
+   "stderr_tail": "NonRetriableError: Agent Looping Detected The model got stuck in a repeating response pattern, so this turn was stopped. Please try again with a different model or start a new conversation. If the problem persists, please contact support.\n"
+  },
+  {
+   "wall_s": 58.03743329201825,
+   "rc": 1,
+   "stderr_tail": "NonRetriableError: Agent Looping Detected The model got stuck in a repeating response pattern, so this turn was stopped. Please try again with a different model or start a new conversation. If the problem persists, please contact support.\n"
+  }
+ ],
+ "event_types": {
+  "system": 1,
+  "user": 1,
+  "thinking": 66
+ },
+ "tool_events": [],
+ "answer": null,
+ "truth": [
+  5,
+  1,
+  3,
+  4,
+  2
+ ],
+ "parsed": {
+  "철수": null,
+  "영희": null,
+  "민수": null,
+  "지아": null,
+  "현우": null
+ },
+ "people_correct": 0,
+ "exact": false
+}

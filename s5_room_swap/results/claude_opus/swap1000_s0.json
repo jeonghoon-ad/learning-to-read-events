@@ -1,0 +1,35 @@
+{
+ "id": "swap1000_s0",
+ "length": 1000,
+ "seed": 0,
+ "model": "claude-opus-5-5",
+ "wall_s": 163.3294682080159,
+ "stop_reason": "end_turn",
+ "usage": {
+  "input_tokens": 26167,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 0,
+  "output_tokens": 25165,
+  "output_tokens_details": {
+   "thinking_tokens": 25124
+  }
+ },
+ "thinking_tokens": 25124,
+ "answer": "철수: 1호실\n영희: 2호실\n민수: 3호실\n지아: 4호실\n현우: 5호실",
+ "truth": [
+  1,
+  2,
+  3,
+  4,
+  5
+ ],
+ "parsed": {
+  "철수": 1,
+  "영희": 2,
+  "민수": 3,
+  "지아": 4,
+  "현우": 5
+ },
+ "people_correct": 5,
+ "exact": true
+}

@@ -1,0 +1,646 @@
+{
+ "thresholds_sha256": "71c4f7062900b00a4f545581f068c1bc9f8710dce0a7e1cd6e7ff954ead1c600",
+ "thresholds": {
+  "gpt-6-luna": {
+   "tau_hold": 0.39389415420440727,
+   "tau_flag": 0.7260924750855026,
+   "dev_dialogues": 200,
+   "dev_turns": 1463,
+   "dev_ops": 2079,
+   "dev_ops_with_confidence": 2061
+  },
+  "gpt-6.1-terra": {
+   "tau_hold": 0.5135132405401088,
+   "tau_flag": 0.8530375106635304,
+   "dev_dialogues": 200,
+   "dev_turns": 1463,
+   "dev_ops": 1796,
+   "dev_ops_with_confidence": 1796
+  },
+  "_rule": "tau_hold = 10th percentile, tau_flag = 25th percentile of per-op min token probability, valid ops, dev (val 21-220) REG_OFF"
+ },
+ "arms": {
+  "gpt-6-luna": {
+   "2.4": {
+    "OFF_online": {
+     "counts": {
+      "turns_released": 7372,
+      "ops_released_wrong": 1733,
+      "ops_released_right": 8176,
+      "ops_invalid": 30,
+      "turns": 7372
+     },
+     "wrong_ops_written": 1733,
+     "wrong_ops_written_flagged": 0,
+     "right_ops_written": 8176,
+     "withheld_wrong": 0,
+     "withheld_right": 0,
+     "jga_all_turns": 0.4211882799782963,
+     "jga_released_turns": 0.4211882799782963,
+     "released_turns": 7372
+    },
+    "ON_online": {
+     "counts": {
+      "turns_flagged": 1111,
+      "ops_flagged_right": 1188,
+      "turns_released": 5163,
+      "ops_released_right": 6664,
+      "ops_invalid": 39,
+      "ops_released_wrong": 1112,
+      "turns_withheld": 1098,
+      "ops_withheld_right": 916,
+      "ops_flagged_wrong": 411,
+      "ops_withheld_wrong": 407,
+      "turns": 7372
+     },
+     "wrong_ops_written": 1523,
+     "wrong_ops_written_flagged": 411,
+     "right_ops_written": 7852,
+     "withheld_wrong": 407,
+     "withheld_right": 916,
+     "jga_all_turns": 0.3863266413456321,
+     "jga_released_turns": 0.45225644005423205,
+     "released_turns": 5163
+    },
+    "ON_offline_replay": {
+     "counts": {
+      "turns_released": 5434,
+      "ops_released_right": 6367,
+      "ops_released_wrong": 1017,
+      "turns_flagged": 1011,
+      "ops_flagged_right": 1049,
+      "turns_withheld": 927,
+      "ops_withheld_wrong": 353,
+      "ops_flagged_wrong": 363,
+      "ops_withheld_right": 760,
+      "ops_invalid": 30,
+      "turns": 7372
+     },
+     "wrong_ops_written": 1380,
+     "wrong_ops_written_flagged": 363,
+     "right_ops_written": 7416,
+     "withheld_wrong": 353,
+     "withheld_right": 760,
+     "jga_all_turns": 0.34251220835594137,
+     "jga_released_turns": 0.38590357011409643,
+     "released_turns": 5434
+    },
+    "RANDOM_matched_offline": {
+     "withheld_ops": 1121,
+     "seeds": 100,
+     "wrong_ops_written": {
+      "mean": 1536.69,
+      "p2.5": 1516.475,
+      "p97.5": 1560.1999999999998
+     },
+     "withheld_wrong": {
+      "mean": 196.31,
+      "p2.5": 172.8,
+      "p97.5": 216.52499999999998
+     },
+     "withheld_right": {
+      "mean": 921.09,
+      "p2.5": 900.0,
+      "p97.5": 943.0999999999999
+     },
+     "jga_all_turns": {
+      "mean": 0.28020075963103636,
+      "p2.5": 0.2703404774823657,
+      "p97.5": 0.2906775637547477
+     },
+     "jga_released_turns": {
+      "mean": 0.3206467367825315,
+      "p2.5": 0.3098561094511716,
+      "p97.5": 0.3321928111475044
+     }
+    },
+    "coverage_of_runs": {
+     "off_turns": 7372,
+     "on_turns": 7372,
+     "common_turns": 7372
+    }
+   },
+   "2.1": {
+    "OFF_online": {
+     "counts": {
+      "turns_released": 7372,
+      "ops_released_wrong": 2247,
+      "ops_released_right": 7662,
+      "ops_invalid": 30,
+      "turns": 7372
+     },
+     "wrong_ops_written": 2247,
+     "wrong_ops_written_flagged": 0,
+     "right_ops_written": 7662,
+     "withheld_wrong": 0,
+     "withheld_right": 0,
+     "jga_all_turns": 0.3414270211611503,
+     "jga_released_turns": 0.3414270211611503,
+     "released_turns": 7372
+    },
+    "ON_online": {
+     "counts": {
+      "turns_flagged": 1111,
+      "ops_flagged_right": 1097,
+      "turns_released": 5163,
+      "ops_released_right": 6279,
+      "ops_invalid": 39,
+      "ops_released_wrong": 1497,
+      "turns_withheld": 1098,
+      "ops_withheld_right": 862,
+      "ops_flagged_wrong": 502,
+      "ops_withheld_wrong": 461,
+      "turns": 7372
+     },
+     "wrong_ops_written": 1999,
+     "wrong_ops_written_flagged": 502,
+     "right_ops_written": 7376,
+     "withheld_wrong": 461,
+     "withheld_right": 862,
+     "jga_all_turns": 0.3229788388497016,
+     "jga_released_turns": 0.38388533798179353,
+     "released_turns": 5163
+    },
+    "ON_offline_replay": {
+     "counts": {
+      "turns_released": 5434,
+      "ops_released_wrong": 1366,
+      "ops_released_right": 6018,
+      "turns_flagged": 1011,
+      "ops_flagged_right": 941,
+      "turns_withheld": 927,
+      "ops_withheld_wrong": 410,
+      "ops_flagged_wrong": 471,
+      "ops_withheld_right": 703,
+      "ops_invalid": 30,
+      "turns": 7372
+     },
+     "wrong_ops_written": 1837,
+     "wrong_ops_written_flagged": 471,
+     "right_ops_written": 6959,
+     "withheld_wrong": 410,
+     "withheld_right": 703,
+     "jga_all_turns": 0.28553988062940855,
+     "jga_released_turns": 0.32738314317261685,
+     "released_turns": 5434
+    },
+    "RANDOM_matched_offline": {
+     "withheld_ops": 1121,
+     "seeds": 100,
+     "wrong_ops_written": {
+      "mean": 1994.64,
+      "p2.5": 1968.0,
+      "p97.5": 2019.0
+     },
+     "withheld_wrong": {
+      "mean": 252.36,
+      "p2.5": 228.0,
+      "p97.5": 279.0
+     },
+     "withheld_right": {
+      "mean": 865.04,
+      "p2.5": 840.0,
+      "p97.5": 889.525
+     },
+     "jga_all_turns": {
+      "mean": 0.23727753662506781,
+      "p2.5": 0.2273365436787846,
+      "p97.5": 0.24649348887683126
+     },
+     "jga_released_turns": {
+      "mean": 0.2711901120489808,
+      "p2.5": 0.2609718979149458,
+      "p97.5": 0.2811525298978215
+     }
+    },
+    "coverage_of_runs": {
+     "off_turns": 7372,
+     "on_turns": 7372,
+     "common_turns": 7372
+    }
+   }
+  },
+  "gpt-6.1-terra": {
+   "2.4": {
+    "OFF_online": {
+     "counts": {
+      "turns_released": 7372,
+      "ops_released_right": 7986,
+      "ops_released_wrong": 575,
+      "turns": 7372
+     },
+     "wrong_ops_written": 575,
+     "wrong_ops_written_flagged": 0,
+     "right_ops_written": 7986,
+     "withheld_wrong": 0,
+     "withheld_right": 0,
+     "jga_all_turns": 0.6174715138361367,
+     "jga_released_turns": 0.6174715138361367,
+     "released_turns": 7372
+    },
+    "ON_online": {
+     "counts": {
+      "turns_released": 5062,
+      "ops_released_right": 6229,
+      "turns_flagged": 1190,
+      "ops_flagged_right": 1503,
+      "turns_withheld": 1120,
+      "ops_withheld_right": 1162,
+      "ops_released_wrong": 370,
+      "ops_flagged_wrong": 139,
+      "ops_withheld_wrong": 126,
+      "ops_invalid": 2,
+      "turns": 7372
+     },
+     "wrong_ops_written": 509,
+     "wrong_ops_written_flagged": 139,
+     "right_ops_written": 7732,
+     "withheld_wrong": 126,
+     "withheld_right": 1162,
+     "jga_all_turns": 0.5042051003798155,
+     "jga_released_turns": 0.5881074674041881,
+     "released_turns": 5062
+    },
+    "ON_offline_replay": {
+     "counts": {
+      "turns_released": 5450,
+      "ops_released_right": 5905,
+      "ops_released_wrong": 334,
+      "turns_flagged": 1050,
+      "ops_flagged_right": 1212,
+      "turns_withheld": 872,
+      "ops_withheld_right": 869,
+      "ops_flagged_wrong": 140,
+      "ops_withheld_wrong": 101,
+      "turns": 7372
+     },
+     "wrong_ops_written": 474,
+     "wrong_ops_written_flagged": 140,
+     "right_ops_written": 7117,
+     "withheld_wrong": 101,
+     "withheld_right": 869,
+     "jga_all_turns": 0.3898534997287032,
+     "jga_released_turns": 0.43211009174311926,
+     "released_turns": 5450
+    },
+    "RANDOM_matched_offline": {
+     "withheld_ops": 970,
+     "seeds": 100,
+     "wrong_ops_written": {
+      "mean": 510.11,
+      "p2.5": 497.475,
+      "p97.5": 524.0
+     },
+     "withheld_wrong": {
+      "mean": 64.89,
+      "p2.5": 51.0,
+      "p97.5": 77.52499999999999
+     },
+     "withheld_right": {
+      "mean": 905.11,
+      "p2.5": 892.475,
+      "p97.5": 919.0
+     },
+     "jga_all_turns": {
+      "mean": 0.37022381985892566,
+      "p2.5": 0.3572911014650027,
+      "p97.5": 0.3841698317959848
+     },
+     "jga_released_turns": {
+      "mean": 0.42057545772945865,
+      "p2.5": 0.406288972007722,
+      "p97.5": 0.4361397348787222
+     }
+    },
+    "coverage_of_runs": {
+     "off_turns": 7372,
+     "on_turns": 7372,
+     "common_turns": 7372
+    }
+   },
+   "2.1": {
+    "OFF_online": {
+     "counts": {
+      "turns_released": 7372,
+      "ops_released_right": 7373,
+      "ops_released_wrong": 1188,
+      "turns": 7372
+     },
+     "wrong_ops_written": 1188,
+     "wrong_ops_written_flagged": 0,
+     "right_ops_written": 7373,
+     "withheld_wrong": 0,
+     "withheld_right": 0,
+     "jga_all_turns": 0.4564568638090071,
+     "jga_released_turns": 0.4564568638090071,
+     "released_turns": 7372
+    },
+    "ON_online": {
+     "counts": {
+      "turns_released": 5062,
+      "ops_released_right": 5831,
+      "turns_flagged": 1190,
+      "ops_flagged_right": 1359,
+      "turns_withheld": 1120,
+      "ops_withheld_right": 1038,
+      "ops_released_wrong": 768,
+      "ops_flagged_wrong": 283,
+      "ops_withheld_wrong": 250,
+      "ops_invalid": 2,
+      "turns": 7372
+     },
+     "wrong_ops_written": 1051,
+     "wrong_ops_written_flagged": 283,
+     "right_ops_written": 7190,
+     "withheld_wrong": 250,
+     "withheld_right": 1038,
+     "jga_all_turns": 0.3962289744981009,
+     "jga_released_turns": 0.4577242196760174,
+     "released_turns": 5062
+    },
+    "ON_offline_replay": {
+     "counts": {
+      "turns_released": 5450,
+      "ops_released_wrong": 751,
+      "ops_released_right": 5488,
+      "turns_flagged": 1050,
+      "ops_flagged_right": 1103,
+      "turns_withheld": 872,
+      "ops_withheld_wrong": 188,
+      "ops_withheld_right": 782,
+      "ops_flagged_wrong": 249,
+      "turns": 7372
+     },
+     "wrong_ops_written": 1000,
+     "wrong_ops_written_flagged": 249,
+     "right_ops_written": 6591,
+     "withheld_wrong": 188,
+     "withheld_right": 782,
+     "jga_all_turns": 0.3071079761258817,
+     "jga_released_turns": 0.3381651376146789,
+     "released_turns": 5450
+    },
+    "RANDOM_matched_offline": {
+     "withheld_ops": 970,
+     "seeds": 100,
+     "wrong_ops_written": {
+      "mean": 1052.24,
+      "p2.5": 1032.475,
+      "p97.5": 1072.525
+     },
+     "withheld_wrong": {
+      "mean": 135.76,
+      "p2.5": 115.475,
+      "p97.5": 155.52499999999998
+     },
+     "withheld_right": {
+      "mean": 834.24,
+      "p2.5": 814.475,
+      "p97.5": 854.525
+     },
+     "jga_all_turns": {
+      "mean": 0.2976953336950624,
+      "p2.5": 0.2858043950081389,
+      "p97.5": 0.30928513293543136
+     },
+     "jga_released_turns": {
+      "mean": 0.33660039011261333,
+      "p2.5": 0.323514158285807,
+      "p97.5": 0.34929785035335137
+     }
+    },
+    "coverage_of_runs": {
+     "off_turns": 7372,
+     "on_turns": 7372,
+     "common_turns": 7372
+    }
+   }
+  },
+  "claude-haiku-5-5": {
+   "2.4": {
+    "OFF_online": {
+     "counts": {
+      "turns_released": 7372,
+      "ops_released_right": 12729,
+      "ops_released_wrong": 2533,
+      "ops_invalid": 312,
+      "turns": 7372
+     },
+     "wrong_ops_written": 2533,
+     "wrong_ops_written_flagged": 0,
+     "right_ops_written": 12729,
+     "withheld_wrong": 0,
+     "withheld_right": 0,
+     "jga_all_turns": 0.49945740640260444,
+     "jga_released_turns": 0.49945740640260444,
+     "released_turns": 7372
+    },
+    "ON_online": {
+     "counts": {
+      "turns_released": 6975,
+      "ops_released_right": 12492,
+      "ops_released_wrong": 2110,
+      "turns_withheld": 397,
+      "ops_withheld_wrong": 314,
+      "ops_invalid": 287,
+      "ops_withheld_right": 445,
+      "turns": 7372
+     },
+     "wrong_ops_written": 2110,
+     "wrong_ops_written_flagged": 0,
+     "right_ops_written": 12492,
+     "withheld_wrong": 314,
+     "withheld_right": 445,
+     "jga_all_turns": 0.5065111231687466,
+     "jga_released_turns": 0.5194265232974911,
+     "released_turns": 6975
+    },
+    "ON_offline_replay": {
+     "counts": {
+      "turns_released": 6956,
+      "ops_released_right": 12299,
+      "ops_released_wrong": 2095,
+      "turns_withheld": 416,
+      "ops_invalid": 312,
+      "ops_withheld_right": 430,
+      "ops_withheld_wrong": 438,
+      "turns": 7372
+     },
+     "wrong_ops_written": 2095,
+     "wrong_ops_written_flagged": 0,
+     "right_ops_written": 12299,
+     "withheld_wrong": 438,
+     "withheld_right": 430,
+     "jga_all_turns": 0.4964731416169289,
+     "jga_released_turns": 0.5109258194364578,
+     "released_turns": 6956
+    },
+    "RANDOM_matched_offline": {
+     "withheld_ops": 1047,
+     "seeds": 100,
+     "wrong_ops_written": {
+      "mean": 2382.01,
+      "p2.5": 2338.85,
+      "p97.5": 2413.525
+     },
+     "withheld_wrong": {
+      "mean": 150.99,
+      "p2.5": 119.475,
+      "p97.5": 194.14999999999995
+     },
+     "withheld_right": {
+      "mean": 767.68,
+      "p2.5": 705.85,
+      "p97.5": 827.05
+     },
+     "jga_all_turns": {
+      "mean": 0.4390219750406945,
+      "p2.5": 0.43020550732501356,
+      "p97.5": 0.447717715680955
+     },
+     "jga_released_turns": {
+      "mean": 0.45948677400805044,
+      "p2.5": 0.4507583381253594,
+      "p97.5": 0.46923519263944796
+     }
+    },
+    "coverage_of_runs": {
+     "off_turns": 7372,
+     "on_turns": 7372,
+     "common_turns": 7372
+    }
+   },
+   "2.1": {
+    "OFF_online": {
+     "counts": {
+      "turns_released": 7372,
+      "ops_released_right": 11934,
+      "ops_released_wrong": 3328,
+      "ops_invalid": 312,
+      "turns": 7372
+     },
+     "wrong_ops_written": 3328,
+     "wrong_ops_written_flagged": 0,
+     "right_ops_written": 11934,
+     "withheld_wrong": 0,
+     "withheld_right": 0,
+     "jga_all_turns": 0.3878187737384699,
+     "jga_released_turns": 0.3878187737384699,
+     "released_turns": 7372
+    },
+    "ON_online": {
+     "counts": {
+      "turns_released": 6975,
+      "ops_released_right": 11682,
+      "ops_released_wrong": 2920,
+      "turns_withheld": 397,
+      "ops_withheld_wrong": 350,
+      "ops_invalid": 287,
+      "ops_withheld_right": 409,
+      "turns": 7372
+     },
+     "wrong_ops_written": 2920,
+     "wrong_ops_written_flagged": 0,
+     "right_ops_written": 11682,
+     "withheld_wrong": 350,
+     "withheld_right": 409,
+     "jga_all_turns": 0.3941942485078676,
+     "jga_released_turns": 0.40372759856630824,
+     "released_turns": 6975
+    },
+    "ON_offline_replay": {
+     "counts": {
+      "turns_released": 6956,
+      "ops_released_wrong": 2856,
+      "ops_released_right": 11538,
+      "turns_withheld": 416,
+      "ops_invalid": 312,
+      "ops_withheld_right": 396,
+      "ops_withheld_wrong": 472,
+      "turns": 7372
+     },
+     "wrong_ops_written": 2856,
+     "wrong_ops_written_flagged": 0,
+     "right_ops_written": 11538,
+     "withheld_wrong": 472,
+     "withheld_right": 396,
+     "jga_all_turns": 0.3902604449267499,
+     "jga_released_turns": 0.40080506037952845,
+     "released_turns": 6956
+    },
+    "RANDOM_matched_offline": {
+     "withheld_ops": 1047,
+     "seeds": 100,
+     "wrong_ops_written": {
+      "mean": 3127.9,
+      "p2.5": 3087.475,
+      "p97.5": 3162.575
+     },
+     "withheld_wrong": {
+      "mean": 200.1,
+      "p2.5": 165.425,
+      "p97.5": 240.52499999999998
+     },
+     "withheld_right": {
+      "mean": 718.57,
+      "p2.5": 658.125,
+      "p97.5": 774.05
+     },
+     "jga_all_turns": {
+      "mean": 0.34595632121540976,
+      "p2.5": 0.33860892566467715,
+      "p97.5": 0.35200759631036355
+     },
+     "jga_released_turns": {
+      "mean": 0.36169493962047156,
+      "p2.5": 0.35449971247843587,
+      "p97.5": 0.36833668775158135
+     }
+    },
+    "coverage_of_runs": {
+     "off_turns": 7372,
+     "on_turns": 7372,
+     "common_turns": 7372
+    }
+   }
+  }
+ },
+ "secondary_alone_vs_reg": {
+  "gpt-6-luna": {
+   "2.4": {
+    "turns": 7372,
+    "ALONE_jga": 0.4701573521432447,
+    "REG_OFF_jga": 0.4211882799782963
+   },
+   "2.1": {
+    "turns": 7372,
+    "ALONE_jga": 0.3830710797612588,
+    "REG_OFF_jga": 0.3414270211611503
+   }
+  },
+  "gpt-6.1-terra": {
+   "2.4": {
+    "turns": 2210,
+    "ALONE_jga": 0.6149321266968326,
+    "REG_OFF_jga": 0.6072398190045248
+   },
+   "2.1": {
+    "turns": 2210,
+    "ALONE_jga": 0.4407239819004525,
+    "REG_OFF_jga": 0.4416289592760181
+   }
+  },
+  "claude-haiku-5-5": {
+   "2.4": {
+    "turns": 7372,
+    "ALONE_jga": 0.5367607162235486,
+    "REG_OFF_jga": 0.49945740640260444
+   },
+   "2.1": {
+    "turns": 7372,
+    "ALONE_jga": 0.41264243081931634,
+    "REG_OFF_jga": 0.3878187737384699
+   }
+  }
+ }
+}

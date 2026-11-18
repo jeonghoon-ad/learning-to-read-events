@@ -1,0 +1,18 @@
+{
+ "attempts": [
+  {
+   "attempt": 1,
+   "ok": true,
+   "reasons": [],
+   "cost": 0.020676000000000003,
+   "latency_s": 7.014117240905762,
+   "tin": 1164,
+   "tout": 801,
+   "logprob_min": null,
+   "text": "5401|copy|TMP|o\n5402|copy|o|i\n5403|copy|i|TMP\n5404|copy|TMP|k\n5405|none\n5406|copy|k|m\n5407|copy|m|TMP\n5408|copy|TMP|e\n5409|none\n5410|copy|e|d\n5411|copy|d|TMP\n5412|copy|TMP|h\n5413|none\n5414|none\n5415|copy|h|p\n5416|copy|p|TMP\n5417|copy|TMP|b\n5418|copy|b|a\n5419|copy|a|TMP\n5420|copy|TMP|j\n5421|copy|j|n\n5422|copy|n|TMP\n5423|copy|TMP|l\n5424|none\n5425|copy|l|g\n5426|copy|g|TMP\n5427|copy|TMP|i\n5428|none\n5429|copy|i|o\n5430|copy|o|TMP\n5431|copy|TMP|g\n5432|copy|g|m\n5433|copy|m|TMP\n5434|copy|TMP|j\n5435|copy|j|e\n5436|copy|e|TMP\n5437|none\n5438|none\n5439|none\n5440|copy|TMP|c\n5441|none\n5442|none\n5443|copy|c|a\n5444|none\n5445|copy|a|TMP\n5446|copy|TMP|f\n5447|copy|f|p\n5448|none\n5449|none\n5450|none\n5451|copy|p|TMP\n5452|copy|TMP|b\n5453|copy|b|k\n5454|copy|k|TMP\n5455|copy|TMP|l\n5456|copy|l|h\n5457|none\n5458|copy|h|TMP\n5459|copy|TMP|d\n5460|copy|d|n\n5461|none\n5462|none\n5463|copy|n|TMP\n5464|copy|TMP|f\n5465|none\n5466|copy|f|d\n5467|copy|d|TMP\n5468|copy|TMP|c\n5469|copy|c|m\n5470|copy|m|TMP\n5471|none\n5472|copy|TMP|g\n5473|copy|g|k\n5474|copy|k|TMP\n5475|copy|TMP|a\n5476|copy|a|p\n5477|copy|p|TMP\n5478|none\n5479|none\n5480|none\n5481|copy|TMP|j\n5482|copy|j|b\n5483|none\n5484|copy|b|TMP"
+  }
+ ],
+ "prompt_sha256": "679a6be4f36ac21e356b536a2db790bc8ec09399c7b347e8f4310dcd01cb62bf",
+ "prompt_chars": 2337,
+ "prompt_note": "prompt text removed (it quotes StateBench item lines); rebuild it from the item with code/run_api_reg.py"
+}

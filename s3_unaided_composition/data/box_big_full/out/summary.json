@@ -1,0 +1,1293 @@
+{
+  "cells": {
+    "H3:A:1": {
+      "correct": 95,
+      "total": 100,
+      "bounds": {
+        "lower_one_sided": 0.8977466223567255,
+        "upper_one_sided": 0.9800944363378281,
+        "lower_two_sided": 0.8871650888945373,
+        "upper_two_sided": 0.9835681208179479
+      },
+      "format_fail": 0,
+      "accuracy": 0.95
+    },
+    "H3:A:2": {
+      "correct": 2,
+      "total": 100,
+      "bounds": {
+        "lower_one_sided": 0.0035651526032567478,
+        "upper_one_sided": 0.06161920039604069,
+        "lower_two_sided": 0.0024313368239425423,
+        "upper_two_sided": 0.07038393247107011
+      },
+      "format_fail": 1,
+      "accuracy": 0.02
+    },
+    "H3:A:4": {
+      "correct": 1,
+      "total": 100,
+      "bounds": {
+        "lower_one_sided": 0.0005128014162622921,
+        "upper_one_sided": 0.046559811453538935,
+        "lower_two_sided": 0.00025314603297742064,
+        "upper_two_sided": 0.054459385392080645
+      },
+      "format_fail": 0,
+      "accuracy": 0.01
+    },
+    "H3:B:1": {
+      "correct": 100,
+      "total": 100,
+      "bounds": {
+        "lower_one_sided": 0.9704869503929601,
+        "upper_one_sided": 1.0,
+        "lower_two_sided": 0.9637833073548235,
+        "upper_two_sided": 1.0
+      },
+      "format_fail": 0,
+      "accuracy": 1.0
+    },
+    "H3:B:2": {
+      "correct": 3,
+      "total": 100,
+      "bounds": {
+        "lower_one_sided": 0.008225829107652688,
+        "upper_one_sided": 0.07571079374983004,
+        "lower_two_sided": 0.006229971538306395,
+        "upper_two_sided": 0.08517605297428002
+      },
+      "format_fail": 1,
+      "accuracy": 0.03
+    },
+    "H3:B:4": {
+      "correct": 2,
+      "total": 100,
+      "bounds": {
+        "lower_one_sided": 0.0035651526032567478,
+        "upper_one_sided": 0.06161920039604069,
+        "lower_two_sided": 0.0024313368239425423,
+        "upper_two_sided": 0.07038393247107011
+      },
+      "format_fail": 1,
+      "accuracy": 0.02
+    },
+    "H3:B:8": {
+      "correct": 1,
+      "total": 100,
+      "bounds": {
+        "lower_one_sided": 0.0005128014162622921,
+        "upper_one_sided": 0.046559811453538935,
+        "lower_two_sided": 0.00025314603297742064,
+        "upper_two_sided": 0.054459385392080645
+      },
+      "format_fail": 3,
+      "accuracy": 0.01
+    }
+  },
+  "collapse": {
+    "H3:A": {
+      "n_fall": 1,
+      "n_chance": 4,
+      "matched_accuracy_lengths": "not reached"
+    },
+    "H3:B": {
+      "n_fall": 2,
+      "n_chance": 8,
+      "matched_accuracy_lengths": [
+        1
+      ]
+    }
+  },
+  "copy": {
+    "H3": {
+      "correct": 1,
+      "total": 20,
+      "bounds": {
+        "lower_one_sided": 0.0025613787765302806,
+        "upper_one_sided": 0.2161061642068473,
+        "lower_two_sided": 0.0012650894979498038,
+        "upper_two_sided": 0.24873276277202777
+      },
+      "format_not_read": true,
+      "rows": [
+        {
+          "seed": 99100,
+          "answer": "To determine the last event in the final sequence, we simply",
+          "generation": "To determine the last event in the final sequence, we simply",
+          "truth": "13254",
+          "exact": false,
+          "prompt_tokens": 138,
+          "generated_tokens": 12
+        },
+        {
+          "seed": 99101,
+          "answer": "To determine the last event in the final list, we simply",
+          "generation": "To determine the last event in the final list, we simply",
+          "truth": "14532",
+          "exact": false,
+          "prompt_tokens": 138,
+          "generated_tokens": 12
+        },
+        {
+          "seed": 99102,
+          "answer": "To determine the last event in the final sequence, we simply",
+          "generation": "To determine the last event in the final sequence, we simply",
+          "truth": "34125",
+          "exact": false,
+          "prompt_tokens": 138,
+          "generated_tokens": 12
+        },
+        {
+          "seed": 99103,
+          "answer": "To determine the last event in the final sequence, we simply",
+          "generation": "To determine the last event in the final sequence, we simply",
+          "truth": "13254",
+          "exact": false,
+          "prompt_tokens": 138,
+          "generated_tokens": 12
+        },
+        {
+          "seed": 99104,
+          "answer": "To determine the last event in the final list, we simply",
+          "generation": "To determine the last event in the final list, we simply",
+          "truth": "24531",
+          "exact": false,
+          "prompt_tokens": 138,
+          "generated_tokens": 12
+        },
+        {
+          "seed": 99105,
+          "answer": "To determine the last event in the final sequence, we simply",
+          "generation": "To determine the last event in the final sequence, we simply",
+          "truth": "24153",
+          "exact": false,
+          "prompt_tokens": 138,
+          "generated_tokens": 12
+        },
+        {
+          "seed": 99106,
+          "answer": "To determine the last event in the final sequence, we simply",
+          "generation": "To determine the last event in the final sequence, we simply",
+          "truth": "43125",
+          "exact": false,
+          "prompt_tokens": 138,
+          "generated_tokens": 12
+        },
+        {
+          "seed": 99107,
+          "answer": "To determine the last event in the final sequence, we simply",
+          "generation": "To determine the last event in the final sequence, we simply",
+          "truth": "25341",
+          "exact": false,
+          "prompt_tokens": 138,
+          "generated_tokens": 12
+        },
+        {
+          "seed": 99108,
+          "answer": "45132",
+          "generation": "45132",
+          "truth": "45132",
+          "exact": true,
+          "prompt_tokens": 138,
+          "generated_tokens": 5
+        },
+        {
+          "seed": 99109,
+          "answer": "To determine the last event in the final sequence, we simply",
+          "generation": "To determine the last event in the final sequence, we simply",
+          "truth": "51432",
+          "exact": false,
+          "prompt_tokens": 138,
+          "generated_tokens": 12
+        },
+        {
+          "seed": 99110,
+          "answer": "To determine the last event in the final sequence, we simply",
+          "generation": "To determine the last event in the final sequence, we simply",
+          "truth": "21534",
+          "exact": false,
+          "prompt_tokens": 138,
+          "generated_tokens": 12
+        },
+        {
+          "seed": 99111,
+          "answer": "To determine the last event in the final sequence, we simply",
+          "generation": "To determine the last event in the final sequence, we simply",
+          "truth": "14523",
+          "exact": false,
+          "prompt_tokens": 138,
+          "generated_tokens": 12
+        },
+        {
+          "seed": 99112,
+          "answer": "To determine the last event in the final sequence, we simply",
+          "generation": "To determine the last event in the final sequence, we simply",
+          "truth": "15342",
+          "exact": false,
+          "prompt_tokens": 138,
+          "generated_tokens": 12
+        },
+        {
+          "seed": 99113,
+          "answer": "To determine the last event in the final sequence, we simply",
+          "generation": "To determine the last event in the final sequence, we simply",
+          "truth": "23154",
+          "exact": false,
+          "prompt_tokens": 138,
+          "generated_tokens": 12
+        },
+        {
+          "seed": 99114,
+          "answer": "To determine the last event in the final list, we simply",
+          "generation": "To determine the last event in the final list, we simply",
+          "truth": "41235",
+          "exact": false,
+          "prompt_tokens": 138,
+          "generated_tokens": 12
+        },
+        {
+          "seed": 99115,
+          "answer": "To determine the last event in the final list, we simply",
+          "generation": "To determine the last event in the final list, we simply",
+          "truth": "52431",
+          "exact": false,
+          "prompt_tokens": 138,
+          "generated_tokens": 12
+        },
+        {
+          "seed": 99116,
+          "answer": "To determine the last event in the final sequence, we simply",
+          "generation": "To determine the last event in the final sequence, we simply",
+          "truth": "21453",
+          "exact": false,
+          "prompt_tokens": 138,
+          "generated_tokens": 12
+        },
+        {
+          "seed": 99117,
+          "answer": "To determine the last event in the final list, we simply",
+          "generation": "To determine the last event in the final list, we simply",
+          "truth": "13524",
+          "exact": false,
+          "prompt_tokens": 138,
+          "generated_tokens": 12
+        },
+        {
+          "seed": 99118,
+          "answer": "To determine the last event in the final sequence, we simply",
+          "generation": "To determine the last event in the final sequence, we simply",
+          "truth": "51342",
+          "exact": false,
+          "prompt_tokens": 138,
+          "generated_tokens": 12
+        },
+        {
+          "seed": 99119,
+          "answer": "To determine the last event in the final sequence, we simply",
+          "generation": "To determine the last event in the final sequence, we simply",
+          "truth": "54231",
+          "exact": false,
+          "prompt_tokens": 138,
+          "generated_tokens": 12
+        }
+      ]
+    },
+    "H1": {
+      "correct": 10,
+      "total": 20,
+      "bounds": {
+        "lower_one_sided": 0.3019539112864935,
+        "upper_one_sided": 0.6980460887135065,
+        "lower_two_sided": 0.27195784956079183,
+        "upper_two_sided": 0.7280421504392081
+      },
+      "format_not_read": true,
+      "rows": [
+        {
+          "seed": 99100,
+          "answer": "13254",
+          "generation": "13254",
+          "truth": "13254",
+          "exact": true,
+          "prompt_tokens": 127,
+          "generated_tokens": 5
+        },
+        {
+          "seed": 99101,
+          "answer": "14532",
+          "generation": "14532",
+          "truth": "14532",
+          "exact": true,
+          "prompt_tokens": 127,
+          "generated_tokens": 5
+        },
+        {
+          "seed": 99102,
+          "answer": "52134",
+          "generation": "52134",
+          "truth": "34125",
+          "exact": false,
+          "prompt_tokens": 127,
+          "generated_tokens": 5
+        },
+        {
+          "seed": 99103,
+          "answer": "13254",
+          "generation": "13254",
+          "truth": "13254",
+          "exact": true,
+          "prompt_tokens": 127,
+          "generated_tokens": 5
+        },
+        {
+          "seed": 99104,
+          "answer": "24531",
+          "generation": "24531",
+          "truth": "24531",
+          "exact": true,
+          "prompt_tokens": 127,
+          "generated_tokens": 5
+        },
+        {
+          "seed": 99105,
+          "answer": "24153",
+          "generation": "24153",
+          "truth": "24153",
+          "exact": true,
+          "prompt_tokens": 127,
+          "generated_tokens": 5
+        },
+        {
+          "seed": 99106,
+          "answer": "52431",
+          "generation": "52431",
+          "truth": "43125",
+          "exact": false,
+          "prompt_tokens": 127,
+          "generated_tokens": 5
+        },
+        {
+          "seed": 99107,
+          "answer": "53412",
+          "generation": "53412",
+          "truth": "25341",
+          "exact": false,
+          "prompt_tokens": 127,
+          "generated_tokens": 5
+        },
+        {
+          "seed": 99108,
+          "answer": "24135",
+          "generation": "24135",
+          "truth": "45132",
+          "exact": false,
+          "prompt_tokens": 127,
+          "generated_tokens": 5
+        },
+        {
+          "seed": 99109,
+          "answer": "51432",
+          "generation": "51432",
+          "truth": "51432",
+          "exact": true,
+          "prompt_tokens": 127,
+          "generated_tokens": 5
+        },
+        {
+          "seed": 99110,
+          "answer": "15324",
+          "generation": "15324",
+          "truth": "21534",
+          "exact": false,
+          "prompt_tokens": 127,
+          "generated_tokens": 5
+        },
+        {
+          "seed": 99111,
+          "answer": "52431",
+          "generation": "52431",
+          "truth": "14523",
+          "exact": false,
+          "prompt_tokens": 127,
+          "generated_tokens": 5
+        },
+        {
+          "seed": 99112,
+          "answer": "54312",
+          "generation": "54312",
+          "truth": "15342",
+          "exact": false,
+          "prompt_tokens": 127,
+          "generated_tokens": 5
+        },
+        {
+          "seed": 99113,
+          "answer": "51234",
+          "generation": "51234",
+          "truth": "23154",
+          "exact": false,
+          "prompt_tokens": 127,
+          "generated_tokens": 5
+        },
+        {
+          "seed": 99114,
+          "answer": "41235",
+          "generation": "41235",
+          "truth": "41235",
+          "exact": true,
+          "prompt_tokens": 127,
+          "generated_tokens": 5
+        },
+        {
+          "seed": 99115,
+          "answer": "52431",
+          "generation": "52431",
+          "truth": "52431",
+          "exact": true,
+          "prompt_tokens": 127,
+          "generated_tokens": 5
+        },
+        {
+          "seed": 99116,
+          "answer": "53214",
+          "generation": "53214",
+          "truth": "21453",
+          "exact": false,
+          "prompt_tokens": 127,
+          "generated_tokens": 5
+        },
+        {
+          "seed": 99117,
+          "answer": "13524",
+          "generation": "13524",
+          "truth": "13524",
+          "exact": true,
+          "prompt_tokens": 127,
+          "generated_tokens": 5
+        },
+        {
+          "seed": 99118,
+          "answer": "53421",
+          "generation": "53421",
+          "truth": "51342",
+          "exact": false,
+          "prompt_tokens": 127,
+          "generated_tokens": 5
+        },
+        {
+          "seed": 99119,
+          "answer": "54231",
+          "generation": "54231",
+          "truth": "54231",
+          "exact": true,
+          "prompt_tokens": 127,
+          "generated_tokens": 5
+        }
+      ]
+    }
+  },
+  "cost": [
+    {
+      "host": "H3",
+      "arm": "A",
+      "n": 1,
+      "seed": 86000,
+      "prompt_tokens": 166,
+      "generated_tokens": 5,
+      "prefill_seconds": 0.6851584438700229,
+      "decode_seconds": 0.1679356279782951,
+      "peak_cuda_bytes_above_weights": 287991296,
+      "cache_bytes": 166068224,
+      "per_event": {
+        "prompt_tokens": 166.0,
+        "generated_tokens": 5.0,
+        "prefill_seconds": 0.6851584438700229,
+        "decode_seconds": 0.1679356279782951,
+        "peak_cuda_bytes_above_weights": 287991296.0,
+        "cache_bytes": 166068224.0
+      }
+    },
+    {
+      "host": "H3",
+      "arm": "A",
+      "n": 1,
+      "seed": 86001,
+      "prompt_tokens": 166,
+      "generated_tokens": 5,
+      "prefill_seconds": 0.0764189949259162,
+      "decode_seconds": 0.16859796782955527,
+      "peak_cuda_bytes_above_weights": 216167936,
+      "cache_bytes": 166068224,
+      "per_event": {
+        "prompt_tokens": 166.0,
+        "generated_tokens": 5.0,
+        "prefill_seconds": 0.0764189949259162,
+        "decode_seconds": 0.16859796782955527,
+        "peak_cuda_bytes_above_weights": 216167936.0,
+        "cache_bytes": 166068224.0
+      }
+    },
+    {
+      "host": "H3",
+      "arm": "A",
+      "n": 1,
+      "seed": 86002,
+      "prompt_tokens": 166,
+      "generated_tokens": 5,
+      "prefill_seconds": 0.07689508097246289,
+      "decode_seconds": 0.16935708397068083,
+      "peak_cuda_bytes_above_weights": 216167936,
+      "cache_bytes": 166068224,
+      "per_event": {
+        "prompt_tokens": 166.0,
+        "generated_tokens": 5.0,
+        "prefill_seconds": 0.07689508097246289,
+        "decode_seconds": 0.16935708397068083,
+        "peak_cuda_bytes_above_weights": 216167936.0,
+        "cache_bytes": 166068224.0
+      }
+    },
+    {
+      "host": "H3",
+      "arm": "A",
+      "n": 1,
+      "seed": 86003,
+      "prompt_tokens": 166,
+      "generated_tokens": 5,
+      "prefill_seconds": 0.07700486318208277,
+      "decode_seconds": 0.16930635599419475,
+      "peak_cuda_bytes_above_weights": 216167936,
+      "cache_bytes": 166068224,
+      "per_event": {
+        "prompt_tokens": 166.0,
+        "generated_tokens": 5.0,
+        "prefill_seconds": 0.07700486318208277,
+        "decode_seconds": 0.16930635599419475,
+        "peak_cuda_bytes_above_weights": 216167936.0,
+        "cache_bytes": 166068224.0
+      }
+    },
+    {
+      "host": "H3",
+      "arm": "A",
+      "n": 1,
+      "seed": 86004,
+      "prompt_tokens": 166,
+      "generated_tokens": 5,
+      "prefill_seconds": 0.07719168718904257,
+      "decode_seconds": 0.16929915198124945,
+      "peak_cuda_bytes_above_weights": 216167936,
+      "cache_bytes": 166068224,
+      "per_event": {
+        "prompt_tokens": 166.0,
+        "generated_tokens": 5.0,
+        "prefill_seconds": 0.07719168718904257,
+        "decode_seconds": 0.16929915198124945,
+        "peak_cuda_bytes_above_weights": 216167936.0,
+        "cache_bytes": 166068224.0
+      }
+    },
+    {
+      "host": "H3",
+      "arm": "A",
+      "n": 2,
+      "seed": 86000,
+      "prompt_tokens": 172,
+      "generated_tokens": 5,
+      "prefill_seconds": 0.07647165888920426,
+      "decode_seconds": 0.16851615393534303,
+      "peak_cuda_bytes_above_weights": 207585280,
+      "cache_bytes": 166461440,
+      "per_event": {
+        "prompt_tokens": 86.0,
+        "generated_tokens": 2.5,
+        "prefill_seconds": 0.03823582944460213,
+        "decode_seconds": 0.08425807696767151,
+        "peak_cuda_bytes_above_weights": 103792640.0,
+        "cache_bytes": 83230720.0
+      }
+    },
+    {
+      "host": "H3",
+      "arm": "A",
+      "n": 2,
+      "seed": 86001,
+      "prompt_tokens": 172,
+      "generated_tokens": 5,
+      "prefill_seconds": 0.07745725708082318,
+      "decode_seconds": 0.17008589790202677,
+      "peak_cuda_bytes_above_weights": 207585280,
+      "cache_bytes": 166461440,
+      "per_event": {
+        "prompt_tokens": 86.0,
+        "generated_tokens": 2.5,
+        "prefill_seconds": 0.03872862854041159,
+        "decode_seconds": 0.08504294895101339,
+        "peak_cuda_bytes_above_weights": 103792640.0,
+        "cache_bytes": 83230720.0
+      }
+    },
+    {
+      "host": "H3",
+      "arm": "A",
+      "n": 2,
+      "seed": 86002,
+      "prompt_tokens": 172,
+      "generated_tokens": 5,
+      "prefill_seconds": 0.07771407580003142,
+      "decode_seconds": 0.17006782302632928,
+      "peak_cuda_bytes_above_weights": 207585280,
+      "cache_bytes": 166461440,
+      "per_event": {
+        "prompt_tokens": 86.0,
+        "generated_tokens": 2.5,
+        "prefill_seconds": 0.03885703790001571,
+        "decode_seconds": 0.08503391151316464,
+        "peak_cuda_bytes_above_weights": 103792640.0,
+        "cache_bytes": 83230720.0
+      }
+    },
+    {
+      "host": "H3",
+      "arm": "A",
+      "n": 2,
+      "seed": 86003,
+      "prompt_tokens": 172,
+      "generated_tokens": 5,
+      "prefill_seconds": 0.077844079118222,
+      "decode_seconds": 0.17029311205260456,
+      "peak_cuda_bytes_above_weights": 207585280,
+      "cache_bytes": 166461440,
+      "per_event": {
+        "prompt_tokens": 86.0,
+        "generated_tokens": 2.5,
+        "prefill_seconds": 0.038922039559111,
+        "decode_seconds": 0.08514655602630228,
+        "peak_cuda_bytes_above_weights": 103792640.0,
+        "cache_bytes": 83230720.0
+      }
+    },
+    {
+      "host": "H3",
+      "arm": "A",
+      "n": 2,
+      "seed": 86004,
+      "prompt_tokens": 172,
+      "generated_tokens": 5,
+      "prefill_seconds": 0.07780601503327489,
+      "decode_seconds": 0.17080769315361977,
+      "peak_cuda_bytes_above_weights": 207585280,
+      "cache_bytes": 166461440,
+      "per_event": {
+        "prompt_tokens": 86.0,
+        "generated_tokens": 2.5,
+        "prefill_seconds": 0.038903007516637444,
+        "decode_seconds": 0.08540384657680988,
+        "peak_cuda_bytes_above_weights": 103792640.0,
+        "cache_bytes": 83230720.0
+      }
+    },
+    {
+      "host": "H3",
+      "arm": "A",
+      "n": 4,
+      "seed": 86000,
+      "prompt_tokens": 184,
+      "generated_tokens": 5,
+      "prefill_seconds": 0.07766142720356584,
+      "decode_seconds": 0.16966077708639205,
+      "peak_cuda_bytes_above_weights": 225294336,
+      "cache_bytes": 167247872,
+      "per_event": {
+        "prompt_tokens": 46.0,
+        "generated_tokens": 1.25,
+        "prefill_seconds": 0.01941535680089146,
+        "decode_seconds": 0.04241519427159801,
+        "peak_cuda_bytes_above_weights": 56323584.0,
+        "cache_bytes": 41811968.0
+      }
+    },
+    {
+      "host": "H3",
+      "arm": "A",
+      "n": 4,
+      "seed": 86001,
+      "prompt_tokens": 184,
+      "generated_tokens": 5,
+      "prefill_seconds": 0.07920984900556505,
+      "decode_seconds": 0.17123387707397342,
+      "peak_cuda_bytes_above_weights": 225294336,
+      "cache_bytes": 167247872,
+      "per_event": {
+        "prompt_tokens": 46.0,
+        "generated_tokens": 1.25,
+        "prefill_seconds": 0.019802462251391262,
+        "decode_seconds": 0.042808469268493354,
+        "peak_cuda_bytes_above_weights": 56323584.0,
+        "cache_bytes": 41811968.0
+      }
+    },
+    {
+      "host": "H3",
+      "arm": "A",
+      "n": 4,
+      "seed": 86002,
+      "prompt_tokens": 184,
+      "generated_tokens": 5,
+      "prefill_seconds": 0.07932438119314611,
+      "decode_seconds": 0.17142518982291222,
+      "peak_cuda_bytes_above_weights": 225294336,
+      "cache_bytes": 167247872,
+      "per_event": {
+        "prompt_tokens": 46.0,
+        "generated_tokens": 1.25,
+        "prefill_seconds": 0.019831095298286527,
+        "decode_seconds": 0.042856297455728054,
+        "peak_cuda_bytes_above_weights": 56323584.0,
+        "cache_bytes": 41811968.0
+      }
+    },
+    {
+      "host": "H3",
+      "arm": "A",
+      "n": 4,
+      "seed": 86003,
+      "prompt_tokens": 184,
+      "generated_tokens": 5,
+      "prefill_seconds": 0.07972077396698296,
+      "decode_seconds": 0.17148072901181877,
+      "peak_cuda_bytes_above_weights": 225294336,
+      "cache_bytes": 167247872,
+      "per_event": {
+        "prompt_tokens": 46.0,
+        "generated_tokens": 1.25,
+        "prefill_seconds": 0.01993019349174574,
+        "decode_seconds": 0.04287018225295469,
+        "peak_cuda_bytes_above_weights": 56323584.0,
+        "cache_bytes": 41811968.0
+      }
+    },
+    {
+      "host": "H3",
+      "arm": "A",
+      "n": 4,
+      "seed": 86004,
+      "prompt_tokens": 184,
+      "generated_tokens": 5,
+      "prefill_seconds": 0.07940876600332558,
+      "decode_seconds": 0.17167388391681015,
+      "peak_cuda_bytes_above_weights": 225294336,
+      "cache_bytes": 167247872,
+      "per_event": {
+        "prompt_tokens": 46.0,
+        "generated_tokens": 1.25,
+        "prefill_seconds": 0.019852191500831395,
+        "decode_seconds": 0.04291847097920254,
+        "peak_cuda_bytes_above_weights": 56323584.0,
+        "cache_bytes": 41811968.0
+      }
+    },
+    {
+      "host": "H3",
+      "arm": "B",
+      "n": 1,
+      "seed": 86000,
+      "prompt_tokens": 280,
+      "generated_tokens": 24,
+      "prefill_seconds": 0.12201256188564003,
+      "decode_seconds": 1.0166384279727936,
+      "peak_cuda_bytes_above_weights": 245475328,
+      "cache_bytes": 174784512,
+      "per_event": {
+        "prompt_tokens": 280.0,
+        "generated_tokens": 24.0,
+        "prefill_seconds": 0.12201256188564003,
+        "decode_seconds": 1.0166384279727936,
+        "peak_cuda_bytes_above_weights": 245475328.0,
+        "cache_bytes": 174784512.0
+      }
+    },
+    {
+      "host": "H3",
+      "arm": "B",
+      "n": 1,
+      "seed": 86001,
+      "prompt_tokens": 280,
+      "generated_tokens": 24,
+      "prefill_seconds": 0.12466184608638287,
+      "decode_seconds": 1.0195179430302233,
+      "peak_cuda_bytes_above_weights": 245475328,
+      "cache_bytes": 174784512,
+      "per_event": {
+        "prompt_tokens": 280.0,
+        "generated_tokens": 24.0,
+        "prefill_seconds": 0.12466184608638287,
+        "decode_seconds": 1.0195179430302233,
+        "peak_cuda_bytes_above_weights": 245475328.0,
+        "cache_bytes": 174784512.0
+      }
+    },
+    {
+      "host": "H3",
+      "arm": "B",
+      "n": 1,
+      "seed": 86002,
+      "prompt_tokens": 280,
+      "generated_tokens": 24,
+      "prefill_seconds": 0.1256793369539082,
+      "decode_seconds": 1.0201282531488687,
+      "peak_cuda_bytes_above_weights": 245475328,
+      "cache_bytes": 174784512,
+      "per_event": {
+        "prompt_tokens": 280.0,
+        "generated_tokens": 24.0,
+        "prefill_seconds": 0.1256793369539082,
+        "decode_seconds": 1.0201282531488687,
+        "peak_cuda_bytes_above_weights": 245475328.0,
+        "cache_bytes": 174784512.0
+      }
+    },
+    {
+      "host": "H3",
+      "arm": "B",
+      "n": 1,
+      "seed": 86003,
+      "prompt_tokens": 280,
+      "generated_tokens": 24,
+      "prefill_seconds": 0.12539739906787872,
+      "decode_seconds": 1.0209241351112723,
+      "peak_cuda_bytes_above_weights": 245475328,
+      "cache_bytes": 174784512,
+      "per_event": {
+        "prompt_tokens": 280.0,
+        "generated_tokens": 24.0,
+        "prefill_seconds": 0.12539739906787872,
+        "decode_seconds": 1.0209241351112723,
+        "peak_cuda_bytes_above_weights": 245475328.0,
+        "cache_bytes": 174784512.0
+      }
+    },
+    {
+      "host": "H3",
+      "arm": "B",
+      "n": 1,
+      "seed": 86004,
+      "prompt_tokens": 280,
+      "generated_tokens": 24,
+      "prefill_seconds": 0.12566264509223402,
+      "decode_seconds": 1.0198293279390782,
+      "peak_cuda_bytes_above_weights": 245475328,
+      "cache_bytes": 174784512,
+      "per_event": {
+        "prompt_tokens": 280.0,
+        "generated_tokens": 24.0,
+        "prefill_seconds": 0.12566264509223402,
+        "decode_seconds": 1.0198293279390782,
+        "peak_cuda_bytes_above_weights": 245475328.0,
+        "cache_bytes": 174784512.0
+      }
+    },
+    {
+      "host": "H3",
+      "arm": "B",
+      "n": 2,
+      "seed": 86000,
+      "prompt_tokens": 286,
+      "generated_tokens": 40,
+      "prefill_seconds": 0.12471839599311352,
+      "decode_seconds": 1.7659404270816594,
+      "peak_cuda_bytes_above_weights": 238829056,
+      "cache_bytes": 176226304,
+      "per_event": {
+        "prompt_tokens": 143.0,
+        "generated_tokens": 20.0,
+        "prefill_seconds": 0.06235919799655676,
+        "decode_seconds": 0.8829702135408297,
+        "peak_cuda_bytes_above_weights": 119414528.0,
+        "cache_bytes": 88113152.0
+      }
+    },
+    {
+      "host": "H3",
+      "arm": "B",
+      "n": 2,
+      "seed": 86001,
+      "prompt_tokens": 286,
+      "generated_tokens": 40,
+      "prefill_seconds": 0.12925134599208832,
+      "decode_seconds": 1.7686126839835197,
+      "peak_cuda_bytes_above_weights": 238829056,
+      "cache_bytes": 176226304,
+      "per_event": {
+        "prompt_tokens": 143.0,
+        "generated_tokens": 20.0,
+        "prefill_seconds": 0.06462567299604416,
+        "decode_seconds": 0.8843063419917598,
+        "peak_cuda_bytes_above_weights": 119414528.0,
+        "cache_bytes": 88113152.0
+      }
+    },
+    {
+      "host": "H3",
+      "arm": "B",
+      "n": 2,
+      "seed": 86002,
+      "prompt_tokens": 286,
+      "generated_tokens": 40,
+      "prefill_seconds": 0.12875861814245582,
+      "decode_seconds": 1.7693618990015239,
+      "peak_cuda_bytes_above_weights": 238829056,
+      "cache_bytes": 176226304,
+      "per_event": {
+        "prompt_tokens": 143.0,
+        "generated_tokens": 20.0,
+        "prefill_seconds": 0.06437930907122791,
+        "decode_seconds": 0.8846809495007619,
+        "peak_cuda_bytes_above_weights": 119414528.0,
+        "cache_bytes": 88113152.0
+      }
+    },
+    {
+      "host": "H3",
+      "arm": "B",
+      "n": 2,
+      "seed": 86003,
+      "prompt_tokens": 286,
+      "generated_tokens": 40,
+      "prefill_seconds": 0.12893094401806593,
+      "decode_seconds": 1.7702799029648304,
+      "peak_cuda_bytes_above_weights": 238829056,
+      "cache_bytes": 176226304,
+      "per_event": {
+        "prompt_tokens": 143.0,
+        "generated_tokens": 20.0,
+        "prefill_seconds": 0.06446547200903296,
+        "decode_seconds": 0.8851399514824152,
+        "peak_cuda_bytes_above_weights": 119414528.0,
+        "cache_bytes": 88113152.0
+      }
+    },
+    {
+      "host": "H3",
+      "arm": "B",
+      "n": 2,
+      "seed": 86004,
+      "prompt_tokens": 286,
+      "generated_tokens": 40,
+      "prefill_seconds": 0.12865602876991034,
+      "decode_seconds": 1.7718440650496632,
+      "peak_cuda_bytes_above_weights": 238829056,
+      "cache_bytes": 176226304,
+      "per_event": {
+        "prompt_tokens": 143.0,
+        "generated_tokens": 20.0,
+        "prefill_seconds": 0.06432801438495517,
+        "decode_seconds": 0.8859220325248316,
+        "peak_cuda_bytes_above_weights": 119414528.0,
+        "cache_bytes": 88113152.0
+      }
+    },
+    {
+      "host": "H3",
+      "arm": "B",
+      "n": 4,
+      "seed": 86000,
+      "prompt_tokens": 298,
+      "generated_tokens": 72,
+      "prefill_seconds": 0.1389069219585508,
+      "decode_seconds": 3.2593173319473863,
+      "peak_cuda_bytes_above_weights": 249472512,
+      "cache_bytes": 179109888,
+      "per_event": {
+        "prompt_tokens": 74.5,
+        "generated_tokens": 18.0,
+        "prefill_seconds": 0.0347267304896377,
+        "decode_seconds": 0.8148293329868466,
+        "peak_cuda_bytes_above_weights": 62368128.0,
+        "cache_bytes": 44777472.0
+      }
+    },
+    {
+      "host": "H3",
+      "arm": "B",
+      "n": 4,
+      "seed": 86001,
+      "prompt_tokens": 298,
+      "generated_tokens": 72,
+      "prefill_seconds": 0.1438506729900837,
+      "decode_seconds": 3.2614069099072367,
+      "peak_cuda_bytes_above_weights": 249472512,
+      "cache_bytes": 179109888,
+      "per_event": {
+        "prompt_tokens": 74.5,
+        "generated_tokens": 18.0,
+        "prefill_seconds": 0.035962668247520924,
+        "decode_seconds": 0.8153517274768092,
+        "peak_cuda_bytes_above_weights": 62368128.0,
+        "cache_bytes": 44777472.0
+      }
+    },
+    {
+      "host": "H3",
+      "arm": "B",
+      "n": 4,
+      "seed": 86002,
+      "prompt_tokens": 298,
+      "generated_tokens": 72,
+      "prefill_seconds": 0.14341645990498364,
+      "decode_seconds": 3.262679345905781,
+      "peak_cuda_bytes_above_weights": 249472512,
+      "cache_bytes": 179109888,
+      "per_event": {
+        "prompt_tokens": 74.5,
+        "generated_tokens": 18.0,
+        "prefill_seconds": 0.03585411497624591,
+        "decode_seconds": 0.8156698364764452,
+        "peak_cuda_bytes_above_weights": 62368128.0,
+        "cache_bytes": 44777472.0
+      }
+    },
+    {
+      "host": "H3",
+      "arm": "B",
+      "n": 4,
+      "seed": 86003,
+      "prompt_tokens": 298,
+      "generated_tokens": 72,
+      "prefill_seconds": 0.14301801496185362,
+      "decode_seconds": 3.2604862188454717,
+      "peak_cuda_bytes_above_weights": 249472512,
+      "cache_bytes": 179109888,
+      "per_event": {
+        "prompt_tokens": 74.5,
+        "generated_tokens": 18.0,
+        "prefill_seconds": 0.035754503740463406,
+        "decode_seconds": 0.8151215547113679,
+        "peak_cuda_bytes_above_weights": 62368128.0,
+        "cache_bytes": 44777472.0
+      }
+    },
+    {
+      "host": "H3",
+      "arm": "B",
+      "n": 4,
+      "seed": 86004,
+      "prompt_tokens": 298,
+      "generated_tokens": 72,
+      "prefill_seconds": 0.14335505198687315,
+      "decode_seconds": 3.2621192971710116,
+      "peak_cuda_bytes_above_weights": 249472512,
+      "cache_bytes": 179109888,
+      "per_event": {
+        "prompt_tokens": 74.5,
+        "generated_tokens": 18.0,
+        "prefill_seconds": 0.03583876299671829,
+        "decode_seconds": 0.8155298242927529,
+        "peak_cuda_bytes_above_weights": 62368128.0,
+        "cache_bytes": 44777472.0
+      }
+    },
+    {
+      "host": "H3",
+      "arm": "B",
+      "n": 8,
+      "seed": 86000,
+      "prompt_tokens": 322,
+      "generated_tokens": 136,
+      "prefill_seconds": 0.1312784079927951,
+      "decode_seconds": 6.223061040043831,
+      "peak_cuda_bytes_above_weights": 272168448,
+      "cache_bytes": 184877056,
+      "per_event": {
+        "prompt_tokens": 40.25,
+        "generated_tokens": 17.0,
+        "prefill_seconds": 0.01640980099909939,
+        "decode_seconds": 0.7778826300054789,
+        "peak_cuda_bytes_above_weights": 34021056.0,
+        "cache_bytes": 23109632.0
+      }
+    },
+    {
+      "host": "H3",
+      "arm": "B",
+      "n": 8,
+      "seed": 86001,
+      "prompt_tokens": 322,
+      "generated_tokens": 136,
+      "prefill_seconds": 0.13520907796919346,
+      "decode_seconds": 6.22456830390729,
+      "peak_cuda_bytes_above_weights": 272168448,
+      "cache_bytes": 184877056,
+      "per_event": {
+        "prompt_tokens": 40.25,
+        "generated_tokens": 17.0,
+        "prefill_seconds": 0.016901134746149182,
+        "decode_seconds": 0.7780710379884113,
+        "peak_cuda_bytes_above_weights": 34021056.0,
+        "cache_bytes": 23109632.0
+      }
+    },
+    {
+      "host": "H3",
+      "arm": "B",
+      "n": 8,
+      "seed": 86002,
+      "prompt_tokens": 322,
+      "generated_tokens": 136,
+      "prefill_seconds": 0.13920883391983807,
+      "decode_seconds": 6.219578573014587,
+      "peak_cuda_bytes_above_weights": 272168448,
+      "cache_bytes": 184877056,
+      "per_event": {
+        "prompt_tokens": 40.25,
+        "generated_tokens": 17.0,
+        "prefill_seconds": 0.01740110423997976,
+        "decode_seconds": 0.7774473216268234,
+        "peak_cuda_bytes_above_weights": 34021056.0,
+        "cache_bytes": 23109632.0
+      }
+    },
+    {
+      "host": "H3",
+      "arm": "B",
+      "n": 8,
+      "seed": 86003,
+      "prompt_tokens": 322,
+      "generated_tokens": 136,
+      "prefill_seconds": 0.13519499404355884,
+      "decode_seconds": 6.219788511050865,
+      "peak_cuda_bytes_above_weights": 272168448,
+      "cache_bytes": 184877056,
+      "per_event": {
+        "prompt_tokens": 40.25,
+        "generated_tokens": 17.0,
+        "prefill_seconds": 0.016899374255444854,
+        "decode_seconds": 0.7774735638813581,
+        "peak_cuda_bytes_above_weights": 34021056.0,
+        "cache_bytes": 23109632.0
+      }
+    },
+    {
+      "host": "H3",
+      "arm": "B",
+      "n": 8,
+      "seed": 86004,
+      "prompt_tokens": 322,
+      "generated_tokens": 136,
+      "prefill_seconds": 0.13511772407218814,
+      "decode_seconds": 6.216947428882122,
+      "peak_cuda_bytes_above_weights": 272168448,
+      "cache_bytes": 184877056,
+      "per_event": {
+        "prompt_tokens": 40.25,
+        "generated_tokens": 17.0,
+        "prefill_seconds": 0.016889715509023517,
+        "decode_seconds": 0.7771184286102653,
+        "peak_cuda_bytes_above_weights": 34021056.0,
+        "cache_bytes": 23109632.0
+      }
+    },
+    {
+      "host": "H1",
+      "arm": "E",
+      "n": 1,
+      "boot_events": 3,
+      "prompt_tokens": 24,
+      "generated_tokens": 0,
+      "prefill_seconds": 0.6025499540846795,
+      "selector_register_seconds": 0.07756672892719507,
+      "cache_bytes": 8880128,
+      "peak_cuda_bytes_above_weights": 282314752
+    },
+    {
+      "host": "H1",
+      "arm": "E",
+      "n": 2,
+      "boot_events": 3,
+      "prompt_tokens": 30,
+      "generated_tokens": 0,
+      "prefill_seconds": 0.00904915202409029,
+      "selector_register_seconds": 0.006963273044675589,
+      "cache_bytes": 8904704,
+      "peak_cuda_bytes_above_weights": 24213504
+    },
+    {
+      "host": "H1",
+      "arm": "E",
+      "n": 4,
+      "boot_events": 3,
+      "prompt_tokens": 42,
+      "generated_tokens": 0,
+      "prefill_seconds": 0.008764188038185239,
+      "selector_register_seconds": 0.000140313059091568,
+      "cache_bytes": 8953856,
+      "peak_cuda_bytes_above_weights": 24918528
+    },
+    {
+      "host": "H1",
+      "arm": "E",
+      "n": 8,
+      "boot_events": 3,
+      "prompt_tokens": 66,
+      "generated_tokens": 0,
+      "prefill_seconds": 0.008525612996891141,
+      "selector_register_seconds": 0.00018081185407936573,
+      "cache_bytes": 9052160,
+      "peak_cuda_bytes_above_weights": 27031552
+    },
+    {
+      "host": "H1",
+      "arm": "E",
+      "n": 32,
+      "boot_events": 3,
+      "prompt_tokens": 210,
+      "generated_tokens": 0,
+      "prefill_seconds": 0.008563698036596179,
+      "selector_register_seconds": 0.007132522063329816,
+      "cache_bytes": 9641984,
+      "peak_cuda_bytes_above_weights": 38171136
+    },
+    {
+      "host": "H1",
+      "arm": "E",
+      "n": 128,
+      "boot_events": 3,
+      "prompt_tokens": 786,
+      "generated_tokens": 0,
+      "prefill_seconds": 0.00938315293751657,
+      "selector_register_seconds": 0.00039324606768786907,
+      "cache_bytes": 12001280,
+      "peak_cuda_bytes_above_weights": 82377728
+    },
+    {
+      "host": "H1",
+      "arm": "E",
+      "n": 512,
+      "boot_events": 3,
+      "prompt_tokens": 3090,
+      "generated_tokens": 0,
+      "prefill_seconds": 0.01590393390506506,
+      "selector_register_seconds": 0.0011150899808853865,
+      "cache_bytes": 21438464,
+      "peak_cuda_bytes_above_weights": 251716608
+    }
+  ],
+  "null": {
+    "H3": {
+      "n": 1,
+      "correct": 285,
+      "total": 299,
+      "bounds": {
+        "lower_one_sided": 0.9277683915589211,
+        "upper_one_sided": 0.9714739367571804,
+        "lower_two_sided": 0.9226865962917021,
+        "upper_two_sided": 0.9741684564442032
+      },
+      "shuffled_state_equals_true": 299
+    },
+    "H1": {
+      "status": "not informative (A at chance)"
+    }
+  }
+}

@@ -1,0 +1,186 @@
+{
+  "host": "H1",
+  "completed": 20,
+  "rows": [
+    {
+      "seed": 99100,
+      "answer": "13254",
+      "generation": "13254",
+      "truth": "13254",
+      "exact": true,
+      "prompt_tokens": 127,
+      "generated_tokens": 5
+    },
+    {
+      "seed": 99101,
+      "answer": "14532",
+      "generation": "14532",
+      "truth": "14532",
+      "exact": true,
+      "prompt_tokens": 127,
+      "generated_tokens": 5
+    },
+    {
+      "seed": 99102,
+      "answer": "52134",
+      "generation": "52134",
+      "truth": "34125",
+      "exact": false,
+      "prompt_tokens": 127,
+      "generated_tokens": 5
+    },
+    {
+      "seed": 99103,
+      "answer": "13254",
+      "generation": "13254",
+      "truth": "13254",
+      "exact": true,
+      "prompt_tokens": 127,
+      "generated_tokens": 5
+    },
+    {
+      "seed": 99104,
+      "answer": "24531",
+      "generation": "24531",
+      "truth": "24531",
+      "exact": true,
+      "prompt_tokens": 127,
+      "generated_tokens": 5
+    },
+    {
+      "seed": 99105,
+      "answer": "24153",
+      "generation": "24153",
+      "truth": "24153",
+      "exact": true,
+      "prompt_tokens": 127,
+      "generated_tokens": 5
+    },
+    {
+      "seed": 99106,
+      "answer": "52431",
+      "generation": "52431",
+      "truth": "43125",
+      "exact": false,
+      "prompt_tokens": 127,
+      "generated_tokens": 5
+    },
+    {
+      "seed": 99107,
+      "answer": "53412",
+      "generation": "53412",
+      "truth": "25341",
+      "exact": false,
+      "prompt_tokens": 127,
+      "generated_tokens": 5
+    },
+    {
+      "seed": 99108,
+      "answer": "24135",
+      "generation": "24135",
+      "truth": "45132",
+      "exact": false,
+      "prompt_tokens": 127,
+      "generated_tokens": 5
+    },
+    {
+      "seed": 99109,
+      "answer": "51432",
+      "generation": "51432",
+      "truth": "51432",
+      "exact": true,
+      "prompt_tokens": 127,
+      "generated_tokens": 5
+    },
+    {
+      "seed": 99110,
+      "answer": "15324",
+      "generation": "15324",
+      "truth": "21534",
+      "exact": false,
+      "prompt_tokens": 127,
+      "generated_tokens": 5
+    },
+    {
+      "seed": 99111,
+      "answer": "52431",
+      "generation": "52431",
+      "truth": "14523",
+      "exact": false,
+      "prompt_tokens": 127,
+      "generated_tokens": 5
+    },
+    {
+      "seed": 99112,
+      "answer": "54312",
+      "generation": "54312",
+      "truth": "15342",
+      "exact": false,
+      "prompt_tokens": 127,
+      "generated_tokens": 5
+    },
+    {
+      "seed": 99113,
+      "answer": "51234",
+      "generation": "51234",
+      "truth": "23154",
+      "exact": false,
+      "prompt_tokens": 127,
+      "generated_tokens": 5
+    },
+    {
+      "seed": 99114,
+      "answer": "41235",
+      "generation": "41235",
+      "truth": "41235",
+      "exact": true,
+      "prompt_tokens": 127,
+      "generated_tokens": 5
+    },
+    {
+      "seed": 99115,
+      "answer": "52431",
+      "generation": "52431",
+      "truth": "52431",
+      "exact": true,
+      "prompt_tokens": 127,
+      "generated_tokens": 5
+    },
+    {
+      "seed": 99116,
+      "answer": "53214",
+      "generation": "53214",
+      "truth": "21453",
+      "exact": false,
+      "prompt_tokens": 127,
+      "generated_tokens": 5
+    },
+    {
+      "seed": 99117,
+      "answer": "13524",
+      "generation": "13524",
+      "truth": "13524",
+      "exact": true,
+      "prompt_tokens": 127,
+      "generated_tokens": 5
+    },
+    {
+      "seed": 99118,
+      "answer": "53421",
+      "generation": "53421",
+      "truth": "51342",
+      "exact": false,
+      "prompt_tokens": 127,
+      "generated_tokens": 5
+    },
+    {
+      "seed": 99119,
+      "answer": "54231",
+      "generation": "54231",
+      "truth": "54231",
+      "exact": true,
+      "prompt_tokens": 127,
+      "generated_tokens": 5
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "reference": "../../../s5.py",
+  "copy": "ref_s5.py",
+  "sha256": "9b7b890c132aae6e63460c6a148d2798f87fe878d49b9fe1eec43f818941530a",
+  "fixed_row": "torch.randint(0, 120, (43690,), generator=torch.Generator().manual_seed(seed))"
+}
